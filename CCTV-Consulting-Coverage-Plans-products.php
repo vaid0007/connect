@@ -63,7 +63,7 @@
 		<section class="breadcrumb-battery-car-service breadcrumb-section section-box" style="background-image: url(images/engine-repair-service-bc.jpg)">
 			<div class="container">
 				<div class="breadcrumb-inner">
-					<h1>SOFTWARE DEVELOPMENT</h1>
+					<h1>CCTV Consulting & Coverage Plans</h1>
 					<ul class="breadcrumbs">
 						<li><a class="breadcrumbs-1" href="index.html">Home</a></li>
 						<li><p class="breadcrumbs-2">Services</p></li>
@@ -79,56 +79,21 @@
 				<div class="row">
 					<div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
 						<div class="services-list">
-							<ul>
-								<li><a href="installation-services-for-telecom.php">Installation Services for Telecom</a></li>
-								<li><a href="installation-services-for-signaling.php">Installation Services for Signaling</a></li>
-								<li class="active"><a href="software-development.php">Software Development</a></li>
-								<li><a href="interfacing-of-diverse-systems.php">Interfacing of diverse Systems</a></li>
-								<li><a href="engineering-application.php">Engineering Application</a></li>
-							</ul>
-						</div>
-						<div class="discount">
-							<span class="percent">-25%</span>
-							<span class="text-1">APPOINTMENT</span>
-							<span class="text-2">Online</span>
-							<a href="#" class="au-btn au-btn-green btn-small">Make Appointment</a>
+<ul>								
+                        <li><a href="installation-services-for-telecom.php">Telecom Installation & Commissioning Services</a></li>
+                        <li><a href="installation-services-for-signaling.php">Signaling Works – Installation & Commissioning</a></li>
+                        <li class="active"><a href="CCTV-Consulting-Coverage-Plans-products.php">CCTV Consulting & Coverage Plans</a></li>
+                        <li><a href="RASTISPLsimulations-products.php">RASTI & SPL Simulations (Acoustics)</a></li>
+                        <li><a href="TelecomDesignConsultancy-products.php">Telecom Design Consultancy</a></li>
+                    </ul>
 						</div>
 					</div>
 					<div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-12">
 	<div class="services-detail">
 		<!-- Service Intro -->
 		<div class="services-first">
-			<img src="images/software-development-service.jpg" alt="Software Development Service">
-			<h2 class="special-heading">SOFTWARE DEVELOPMENT SERVICES</h2>
-			<p>We provide end-to-end Software Development Services designed to help businesses achieve digital transformation and long-term success. Our team specializes in creating custom software, mobile applications, web platforms, and enterprise-level solutions tailored to meet specific business requirements.</p>
-			<p>From initial planning and design to coding, testing, deployment, and long-term support, we deliver solutions that are innovative, scalable, and secure. Whether you need product development, system integration, or application modernization, we ensure seamless execution and superior performance.</p>
-		</div>
-
-		<!-- Pricing -->
-		<div class="services-price">
-			<h2 class="special-heading">OUR PRICING</h2>
-			<table>
-				<tr>
-					<td>Custom Web Application</td>
-					<td>Starting at $500.00</td>
-				</tr>
-				<tr>
-					<td>Mobile App Development</td>
-					<td>Starting at $800.00</td>
-				</tr>
-				<tr>
-					<td>API Development & Integration</td>
-					<td>Starting at $300.00</td>
-				</tr>
-				<tr>
-					<td>Software Maintenance & Support</td>
-					<td>Starting at $200.00/month</td>
-				</tr>
-				<tr>
-					<td>Cloud-Based Solutions</td>
-					<td>Starting at $600.00</td>
-				</tr>
-			</table>
+			<h2 class="special-heading">CCTV CONSULTING & COVERAGE PLANS</h2>
+			<p>Expert design and consultancy for CCTV systems across stations and depots, ensuring optimal camera placement, coverage balance, and integration with control room operations.</p>
 		</div>
 
 		<div class="row">
@@ -191,6 +156,18 @@
 								</div>
 							</div>
 						</div>
+						<a href="contact-v2.php"  style="
+    background-color: #054e93;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+  "
+              >Click here</a
+            >
 					</div>
 				</div>
 			</div>

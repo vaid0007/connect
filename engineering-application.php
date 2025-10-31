@@ -87,46 +87,13 @@
 								<li class="active"><a href="engineering-application.php">Engineering Application</a></li>
 							</ul>
 						</div>
-						<div class="discount">
-							<span class="percent">-25%</span>
-							<span class="text-1">APPOINTMENT</span>
-							<span class="text-2">Online</span>
-							<a href="#" class="au-btn au-btn-green btn-small">Make Appointment</a>
-						</div>
 					</div>
 					<div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-12">
 	<div class="services-detail">
 		<div class="services-first">
-			<img class="w-100 img-fluid" src="images/engineering-application-service.jpeg" alt="Engineering Application Service">
 			<h2 class="special-heading">ENGINEERING APPLICATION SERVICES</h2>
 			<p>Our Engineering Application Services are designed to provide innovative, reliable, and high-performance solutions for modern businesses and industries. We specialize in developing and deploying engineering-driven software and systems that support telecom, IT, industrial automation, and enterprise-level operations. By leveraging cutting-edge tools and methodologies, we ensure that our applications are efficient, scalable, and tailored to meet unique client requirements.</p>
 			<p>From system design and prototyping to implementation and optimization, our team delivers end-to-end engineering solutions. We focus on creating applications that simplify complex processes, integrate with existing infrastructures, and drive measurable business outcomes. Whether you require process automation, customized engineering tools, or cross-platform applications, we provide solutions that enhance efficiency, reduce costs, and ensure long-term performance.</p>
-		</div>
-
-		<div class="services-price">
-			<h2 class="special-heading">OUR PRICING</h2>
-			<table>
-				<tr>
-					<td>Custom Engineering Application Design</td>
-					<td>$200.00</td>
-				</tr>
-				<tr>
-					<td>Process Automation Tools</td>
-					<td>$250.00</td>
-				</tr>
-				<tr>
-					<td>Industrial System Integration</td>
-					<td>$300.00</td>
-				</tr>
-				<tr>
-					<td>Simulation & Prototyping Solutions</td>
-					<td>$350.00</td>
-				</tr>
-				<tr>
-					<td>Maintenance & Long-Term Support</td>
-					<td>$150.00</td>
-				</tr>
-			</table>
 		</div>
 
 		<div class="row">
@@ -188,6 +155,18 @@
 								</div>
 							</div>
 						</div>
+						<a href="contact-v2.php"  style="
+    background-color: #054e93;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+  "
+              >Click here</a
+            >
 					</div><!-- /#accordion -->
 				</div>
 			</div>

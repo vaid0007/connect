@@ -416,7 +416,7 @@
                 text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
               "
             >
-              Have a quary related to products
+              Have a query related to products
             </span>
 
             <a href="contact-v2.php" class="au-btn btn-small"

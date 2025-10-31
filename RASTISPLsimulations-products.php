@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 
-<!-- Mirrored from freebw.com/templates/auservice/engine-repair-service.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 22 Aug 2025 10:32:36 GMT -->
+<!-- Mirrored from freebw.com/templates/auservice/battery-car-service.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 22 Aug 2025 10:32:38 GMT -->
 <head>
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Interfacing Of Diverse Systems</title>
+	<title>Software Development</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 	<!-- Mobile Specific Metas
@@ -40,7 +40,7 @@
     <!-- Main Style Css -->
     <link rel="stylesheet" href="css/style.css"/>
 </head>
-<body class="engine-repair-service">
+<body class="battery-car-service">
 	<!-- Images Loader -->
 	<div class="images-preloader">
 	    <div id="preloader_1" class="rectangle-bounce">
@@ -60,10 +60,10 @@
 	<div class="page-content">
 		
 		<!-- Breadcrumb Section -->
-		<section class="breadcrumb-engine-repair-service breadcrumb-section section-box" style="background-image: url(images/engine-repair-service-bc.jpg)">
+		<section class="breadcrumb-battery-car-service breadcrumb-section section-box" style="background-image: url(images/engine-repair-service-bc.jpg)">
 			<div class="container">
 				<div class="breadcrumb-inner">
-					<h1>INTERFACING OF DIVERSE SYSTEMS</h1>
+					<h1>CCTV Consulting & Coverage Plans</h1>
 					<ul class="breadcrumbs">
 						<li><a class="breadcrumbs-1" href="index.html">Home</a></li>
 						<li><p class="breadcrumbs-2">Services</p></li>
@@ -72,85 +72,86 @@
 			</div>
 		</section>
 		<!-- End Breadcrumb Section -->
-		
+
 		<!-- Services Section -->
 		<section class="services-section-page welcome-section section-box">
 			<div class="container">
 				<div class="row">
 					<div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
 						<div class="services-list">
-							<ul>
-								<li><a href="installation-services-for-telecom.php">Installation Services for Telecom</a></li>
-								<li><a href="installation-services-for-signaling.php">Installation Services for Signaling</a></li>
-								<li><a href="software-development.php">Software Development</a></li>
-								<li class="active"><a href="interfacing-of-diverse-systems.php">Interfacing of diverse Systems</a></li>
-								<li><a href="engineering-application.php">Engineering Application</a></li>
-							</ul>
+							<ul>								
+                        <li class="active"><a href="installation-services-for-telecom.php">Telecom Installation & Commissioning Services</a></li>
+                        <li><a href="installation-services-for-signaling.php">Signaling Works – Installation & Commissioning</a></li>
+                        <li><a href="CCTV-Consulting-Coverage-Plans-products.php">CCTV Consulting & Coverage Plans</a></li>
+                        <li class="active"><a href="RASTISPLsimulations-products.php">RASTI & SPL Simulations (Acoustics)</a></li>
+                        <li><a href="TelecomDesignConsultancy-products.php">Telecom Design Consultancy</a></li>
+                    </ul>
 						</div>
 					</div>
 					<div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-12">
 	<div class="services-detail">
+		<!-- Service Intro -->
 		<div class="services-first">
-			<h2 class="special-heading">INTERFACING OF DIVERSE SYSTEMS</h2>
-			<p>Our Interfacing of Diverse Systems service is designed to integrate multiple communication, IT, and operational systems into one seamless platform. Modern businesses rely on a variety of tools—telecom networks, data management systems, IoT devices, and enterprise software. We specialize in connecting these diverse technologies to ensure smooth interoperability, improved efficiency, and reliable performance.</p>
-			<p>Whether it’s linking telecom infrastructure with IT platforms, integrating cloud applications with on-premises systems, or enabling cross-platform communication between different hardware and software, we deliver robust and secure interfacing solutions. With our expertise, organizations can eliminate silos, enhance productivity, and achieve faster decision-making through unified systems.</p>
+			<h2 class="special-heading">RASTI & SPL SIMULATIONS (ACOUSTICS)</h2>
+			<p>Comprehensive RASTI (Speech Intelligibility) and SPL (Sound Pressure Level) simulations using EASE acoustic modeling software—ensuring superior audio clarity and uniform sound distribution across station zones.</p>
 		</div>
 
 		<div class="row">
-			<div class="col-xl-6 col-lg-6 colmd-6 col-sm-12 col-12">
+			<!-- Why Choose Us -->
+			<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
 				<div class="why-choose">
 					<h2 class="special-heading">WHY CHOOSE US</h2>
 					<div id="accordion">
-						<!-- Heading 1 -->
+						<!-- Point 1 -->
 						<div class="card">
 							<div class="card-header" id="headingOne">
 								<h5 class="mb-0">
 									<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-										<i class="la la-plug"></i>
-										Seamless System Interoperability
+										<i class="la la-code"></i>
+										Expert Development Team
 									</button>
 								</h5>
 							</div>
 							<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
 								<div class="card-body">
 									<div class="card-text">
-										We connect multiple platforms—telecom, IT, cloud, and hardware—into a unified ecosystem, ensuring data and processes flow smoothly across your organization.
+										Our developers are highly skilled in modern frameworks, programming languages, and agile methodologies, ensuring high-quality and efficient delivery.
 									</div>
 								</div>
 							</div>
 						</div>
-						<!-- Heading 2 -->
+						<!-- Point 2 -->
 						<div class="card">
 							<div class="card-header" id="headingTwo">
 								<h5 class="mb-0">
 									<button class="btn btn-link" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-										<i class="la la-shield"></i>
-										Secure & Reliable Integration
+										<i class="la la-cogs"></i>
+										Customized Solutions
 									</button>
 								</h5>
 							</div>
 							<div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordion">
 								<div class="card-body">
 									<div class="card-text">
-										We implement strict security protocols and industry best practices to ensure your systems remain protected while being fully interoperable.
+										We design and build software tailored to your business requirements, ensuring scalability, security, and flexibility for future growth.
 									</div>
 								</div>
 							</div>
 						</div>
-						<!-- Heading 3 -->
+						<!-- Point 3 -->
 						<div class="card">
 							<div class="card-header" id="headingThree">
 								<h5 class="mb-0">
 									<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-										<i class="la la-cogs"></i>
-										Customized Solutions
+										<i class="la la-shield"></i>
+										Reliable Support & Maintenance
 									</button>
 								</h5>
 							</div>
 							<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
 								<div class="card-body">
 									<div class="card-text">
-										Our experts design tailor-made interfacing solutions to match your specific business needs, ensuring scalability and long-term flexibility.
+										We provide continuous support, updates, and system monitoring to keep your applications running smoothly and securely.
 									</div>
 								</div>
 							</div>
@@ -167,49 +168,50 @@
   "
               >Click here</a
             >
-					</div><!-- /#accordion -->
+					</div>
 				</div>
 			</div>
 
-			<div class="col-xl-6 col-lg-6 colmd-6 col-sm-12 col-12">
+			<!-- Skills -->
+			<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
 				<div class="welcome-content js-waypoint">
 					<h2 class="special-heading">OUR SKILLS</h2>
-					<p>We bring expertise in connecting diverse platforms, ensuring secure, scalable, and high-performance solutions for enterprises and telecom providers.</p>
+					<p>We combine innovation with technical expertise to deliver software solutions that meet global standards.</p>
 					<div class="progress-box progress-box-1 m-b-25">
-						<p class="progress-label">Integration Expertise</p>
+						<p class="progress-label">Custom Software Development</p>
 						<div class="au-progress au-progress-1">
 							
 						</div>
 					</div>
 					<div class="progress-box progress-box-1 m-b-25">
-						<p class="progress-label">System Security</p>
-						<div class="au-progress au-progress-1">
-							
-						</div>
-					</div>
-					<div class="progress-box progress-box-1 m-b-25">
-						<p class="progress-label">Cross-Platform Compatibility</p>
+						<p class="progress-label">Mobile & Web Applications</p>
 						<div class="au-progress au-progress-1">
 							
 						</div>
 					</div>
 					<div class="progress-box progress-box-1">
-						<p class="progress-label">Long-Term Support</p>
+						<p class="progress-label">System Integration</p>
+						<div class="au-progress au-progress-1">
+							
+						</div>
+					</div>
+					<div class="progress-box progress-box-1">
+						<p class="progress-label">Cloud & Security Solutions</p>
 						<div class="au-progress au-progress-1">
 							
 						</div>
 					</div>
 				</div>
-			</div><!-- /.col -->
-		</div><!-- /.row -->
-	</div><!-- /.services-detail -->
+			</div>
+		</div>
+	</div>
 </div>
 
 				</div>
 			</div>
 		</section>
 		<!-- End Services Section -->
-		
+
 		<!-- CTA Section -->
 		<!-- <section class="cta-section cta-gallery section-box">
 			<div class="container">
@@ -228,6 +230,7 @@
 			</div>
 		</section> -->
 		<!-- End CTA Section -->
+		
 	</div>
 	
 
@@ -274,5 +277,5 @@
 	<script src="js/custom.js"></script>
 </body>
 
-<!-- Mirrored from freebw.com/templates/auservice/engine-repair-service.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 22 Aug 2025 10:32:37 GMT -->
-</html>     
+<!-- Mirrored from freebw.com/templates/auservice/battery-car-service.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 22 Aug 2025 10:32:39 GMT -->
+</html>

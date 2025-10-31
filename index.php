@@ -120,9 +120,9 @@
               Welcome to Connect Compusys Pvt. Ltd.
             </span>
 
-            <a href="contact-v2.php" class="au-btn btn-small"
+            <!-- <a href="contact-v2.php" class="au-btn btn-small"
               >Make an Appointment</a
-            >
+            > -->
           </div>
         </div>
       </section>
@@ -133,45 +133,48 @@
       <section class="welcome-section section-box js-waypoint">
         <div class="container">
           <div class="row">
-            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
               <div class="welcome-content">
                 <h2 class="special-heading">Welcome to Our Company</h2>
-                <p>
-                  Established 1996, CCPL is a Technology Oriented Solutions
-                  organization active in the fields of Information Technology,
-                  Telecommunications, Signaling and Electrification for Metro
-                  Rail systems. CCPL provides a wide range of IT Solutions and
-                  Services to Corporates, SME’s and Retail customers. Telecom
-                  and Signaling related activities include Professional services
-                  for Installation, Commissioning and Maintenance of diverse
-                  products and systems.
-                </p>
+                <p
+  style="
+    font-family: 'Berlin Sans FB', 'Berlin Sans FB Demi', 'Trebuchet MS', Arial, sans-serif;
+    font-size: 18 px;
+    line-height: 1.8;
+    color: #333;
+  "
+>
+  Technology in the 21st century is advancing with an exceptional pace,
+  at Connect Compusys Pvt Ltd we operate in an adaptive and collective
+  approach to create solutions customised to the needs of industry leading
+  firms and organisations. We believe in solving problems with technologically
+  advanced and top of the line solutions. As an objective-oriented company, our
+  workforce is dedicated to providing you the solutions to your problems.
+</p>
+
                 <h2 class="special-heading">We Provide:</h2>
                 <div class="container">
                   <div class="row">
                     <div class="col-md-5">
                       <ul class="list-unstyled">
                         <li>
-                          <i
-                            class="bi bi-check-circle-fill text-success me-2"
-                          ></i
-                          >Installation designs
+                          <i class="bi bi-check-circle-fill me-2" style="color: #054e93;"></i>Installation designs
                         </li>
                         <li>
                           <i
-                            class="bi bi-check-circle-fill text-success me-2"
+                            class="bi bi-check-circle-fill me-2" style="color: #054e93;"
                           ></i
                           >Actual installation
                         </li>
                         <li>
                           <i
-                            class="bi bi-check-circle-fill text-success me-2"
+                            class="bi bi-check-circle-fill me-2" style="color: #054e93;"
                           ></i
                           >Testing and commissioning
                         </li>
                         <li>
                           <i
-                            class="bi bi-check-circle-fill text-success me-2"
+                            class="bi bi-check-circle-fill me-2" style="color: #054e93;"
                           ></i
                           >Trainings
                         </li>
@@ -181,25 +184,25 @@
                       <ul class="list-unstyled">
                         <li>
                           <i
-                            class="bi bi-check-circle-fill text-success me-2"
+                            class="bi bi-check-circle-fill me-2" style="color: #054e93;"
                           ></i
                           >LAN and WAN Network Implementation
                         </li>
                         <li>
                           <i
-                            class="bi bi-check-circle-fill text-success me-2"
+                            class="bi bi-check-circle-fill me-2" style="color: #054e93;"
                           ></i
                           >Facility Management
                         </li>
                         <li>
                           <i
-                            class="bi bi-check-circle-fill text-success me-2"
+                            class="bi bi-check-circle-fill me-2" style="color: #054e93;"
                           ></i
                           >Interfacing solutions for diverse systems
                         </li>
                         <li>
                           <i
-                            class="bi bi-check-circle-fill text-success me-2"
+                            class="bi bi-check-circle-fill me-2" style="color: #054e93;"
                           ></i
                           >Providing Leased Lines
                         </li>
@@ -207,13 +210,6 @@
                     </div>
                   </div>
                 </div>
-              </div>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-              <div class="welcome-image">
-                <br /><br />
-                <br /><br />
-                <img src="images/home_01.jpg" alt="welcome" />
               </div>
             </div>
           </div>
@@ -237,13 +233,11 @@
               <div class="services-text">
                 <span
                   ><a href="installation-services-for-telecom.php"
-                    >Installation Services for Telecom</a
+                    >PA Server</a
                   ></span
                 >
                 <p>
-                  Comprehensive telecom installation services including setup of
-                  base stations, fiber optics, and network integration to ensure
-                  seamless communication infrastructure for your business.
+                  Centralized Public Address (PA) Server designed for seamless audio control across metro stations. Enables synchronized announcements, remote management, and high-reliability operation for critical passenger communication.
                 </p>
                 <a
                   href="installation-services-for-telecom.php"
@@ -263,13 +257,11 @@
               <div class="services-text">
                 <span
                   ><a href="installation-services-for-signaling.php"
-                    >Installation Services for Signaling</a
+                    >PIDS Server</a
                   ></span
                 >
                 <p>
-                  Expert installation of signaling systems including
-                  configuration of control systems, wiring, and communication
-                  protocols, critical for safe and efficient operations.
+                  Robust Passenger Information Display System (PIDS) server that manages real-time data dissemination across display boards and integrates effortlessly with station control systems.
                 </p>
                 <a
                   href="installation-services-for-signaling.php"
@@ -289,13 +281,11 @@
               <div class="services-text">
                 <span
                   ><a href="software-development.php"
-                    >Software Development</a
+                    >Content Management System (CMS)</a
                   ></span
                 >
                 <p>
-                  Custom software development solutions tailored for your
-                  business needs, including web applications, desktop software,
-                  and enterprise-level systems with scalable architecture.
+                  A unified software platform that ensures efficient scheduling, distribution, and control of multimedia content across PA and PIDS networks within metro environments.
                 </p>
                 <a href="software-development.php" class="more-link"
                   >Read more</a
@@ -313,13 +303,11 @@
               <div class="services-text">
                 <span
                   ><a href="interfacing-of-diverse-systems.php"
-                    >Interfacing of Diverse Systems</a
+                    >MMI – Dhwani</a
                   ></span
                 >
                 <p>
-                  Seamless integration of diverse systems such as industrial
-                  automation, telecom, and IT infrastructure, enabling efficient
-                  communication and data exchange across platforms.
+                  Our in-house developed Man-Machine Interface, Dhwani, acts as the central control point between the PA and PIDS systems at each station—enabling operators to manage announcements, display content, and alarms through a single intuitive interface.
                 </p>
                 <a href="interfacing-of-diverse-systems.php" class="more-link"
                   >Read more</a
@@ -337,14 +325,124 @@
               <div class="services-text">
                 <span
                   ><a href="engineering-application.php"
-                    >Engineering Application</a
+                    >Spark Detection System for OHE Equipment & Catenary Lines</a
                   ></span
                 >
                 <p>
-                  Providing innovative engineering application services that
-                  enhance system performance, automate processes, and deliver
-                  high-quality solutions for telecom, IT, and industrial
-                  sectors.
+                  Advanced monitoring system that detects electrical sparking in Overhead Equipment (OHE) and catenary lines, improving safety and enabling predictive maintenance in traction systems.
+                </p>
+                <a href="engineering-application.php" class="more-link"
+                  >Read more</a
+                >
+              </div>
+            </div>
+            <!-- Service 1 -->
+            <div class="services-content">
+              <!-- <div class="services-icon">
+                    <a href="installation-services-for-telecom.php">
+                        <img src="images/icons/hp-1-services-3.png" alt="Installation Services for Telecom">
+                    </a>
+                </div> -->
+              <div class="services-text">
+                <span
+                  ><a href="installation-services-for-telecom.php"
+                    >Battery Monitoring System</a
+                  ></span
+                >
+                <p>
+Intelligent system for real-time monitoring of battery health, voltage, temperature, and charge cycles—ensuring uninterrupted operation of station backup systems.
+                </p>
+                <a
+                  href="installation-services-for-telecom.php"
+                  class="more-link"
+                  >Read more</a
+                >
+              </div>
+            </div>
+
+            <!-- Service 2 -->
+            <div class="services-content">
+              <!-- <div class="services-icon">
+                    <a href="installation-services-for-signaling.php">
+                        <img src="images/icons/hp-1-services-2.png" alt="Installation Services for Signaling">
+                    </a>
+                </div> -->
+              <div class="services-text">
+                <span
+                  ><a href="installation-services-for-signaling.php"
+                    >PAS Interfaces</a
+                  ></span
+                >
+                <p>
+Specialized hardware and software interfaces that enable smooth integration between the Public Address System and other subsystems within metro infrastructure.
+                </p>
+                <a
+                  href="installation-services-for-signaling.php"
+                  class="more-link"
+                  >Read more</a
+                >
+              </div>
+            </div>
+
+            <!-- Service 3 -->
+            <div class="services-content">
+              <!-- <div class="services-icon">
+                    <a href="software-development.php">
+                        <img src="images/icons/hp-1-services-4.png" alt="Software Development">
+                    </a>
+                </div> -->
+              <div class="services-text">
+                <span
+                  ><a href="software-development.php"
+                    >PAS Speakers</a
+                  ></span
+                >
+                <p>
+Comprehensive range of high-clarity speakers including ceiling, wall-mount, projector, and column speakers—engineered for acoustical performance and reliability in metro environments.
+                </p>
+                <a href="software-development.php" class="more-link"
+                  >Read more</a
+                >
+              </div>
+            </div>
+
+            <!-- Service 4 -->
+            <div class="services-content">
+              <!-- <div class="services-icon">
+                    <a href="interfacing-of-diverse-systems.php">
+                        <img src="images/icons/hp-1-services-5.png" alt="Interfacing of Diverse Systems">
+                    </a>
+                </div> -->
+              <div class="services-text">
+                <span
+                  ><a href="interfacing-of-diverse-systems.php"
+                    >PIDS Boards</a
+                  ></span
+                >
+                <p>
+High-visibility Passenger Information Display Boards capable of delivering real-time updates, emergency notifications, and multi-language content with robust industrial-grade design.
+                </p>
+                <a href="interfacing-of-diverse-systems.php" class="more-link"
+                  >Read more</a
+                >
+              </div>
+            </div>
+
+            <!-- Service 5 -->
+            <div class="services-content">
+              <!-- <div class="services-icon">
+                    <a href="engineering-application.php">
+                        <img src="images/icons/hp-1-services-6.png" alt="Engineering Application">
+                    </a>
+                </div> -->
+              <div class="services-text">
+                <span
+                  ><a href="engineering-application.php"
+                    >Passenger Coach Load Display System</a
+                  ></span
+                >
+                <p>
+An intelligent solution that captures and displays coach occupancy levels on PIDS boards, assisting passengers in selecting less crowded coaches for improved travel comfort and efficiency.
                 </p>
                 <a href="engineering-application.php" class="more-link"
                   >Read more</a
@@ -358,7 +456,7 @@
       <!-- End Our Services Section -->
 
       <!-- Gallery Section -->
-      <section class="gallery-section section-box">
+      <!-- <section class="gallery-section section-box">
         <div class="container">
           <h2 class="special-heading">GALLERY</h2>
           <div class="row">
@@ -518,7 +616,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
       <!-- End Gallery Section -->
 
       <!-- Statistics Section -->
@@ -556,11 +654,10 @@
       <!-- End Statistics Section -->
 
       <!-- Client Section -->
-      <section class="client-section section-box">
+      <!-- <section class="client-section section-box">
         <div class="container">
           <h2 class="special-heading">WHAT OUR CLIENTS SAY?</h2>
           <div id="client-hp-1" class="owl-carousel owl-theme">
-            <!-- Client 1 -->
             <div class="client-content">
               <i class="fas fa-quote-left"></i>
               <p>
@@ -577,7 +674,6 @@
               </div>
             </div>
 
-            <!-- Client 2 -->
             <div class="client-content">
               <i class="fas fa-quote-left"></i>
               <p>
@@ -594,7 +690,6 @@
               </div>
             </div>
 
-            <!-- Client 3 -->
             <div class="client-content">
               <i class="fas fa-quote-left"></i>
               <p>
@@ -611,7 +706,6 @@
               </div>
             </div>
 
-            <!-- Client 4 -->
             <div class="client-content">
               <i class="fas fa-quote-left"></i>
               <p>
@@ -628,7 +722,6 @@
               </div>
             </div>
 
-            <!-- Client 5 -->
             <div class="client-content">
               <i class="fas fa-quote-left"></i>
               <p>
@@ -645,7 +738,6 @@
               </div>
             </div>
 
-            <!-- Client 6 -->
             <div class="client-content">
               <i class="fas fa-quote-left"></i>
               <p>
@@ -663,7 +755,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <!-- End Client Section -->
 

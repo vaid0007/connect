@@ -1,18 +1,7 @@
 <header class="header">
   <!-- Show Desktop Header -->
   <div class="show-desktop-header header-hp-1">
-    <div class="top-header">
-      <div class="container">
-        <div class="top-header-inner">
-          <span>Best services quality for customers.</span>
-          <div class="header-socials">
-            <span>Follow Us:</span>
-            <a href="#"><i class="fab fa-whatsapp"></i></a>
-            <a href="#"><i class="fab fa-linkedin"></i></a>
-          </div>
-        </div>
-      </div>
-    </div>
+
     <div id="js-navbar-fixed" class="menu-desktop">
       <div class="container menu-desktop-inner">
         <!-- Logo -->
@@ -45,16 +34,16 @@
                   >
                 </li>
                 <li>
-                  <a href="software-development.php">Software Development</a>
+                  <a href="CCTV-Consulting-Coverage-Plans-products.php">CCTV Consulting & Coverage Plans</a>
                 </li>
                 <li>
-                  <a href="interfacing-of-diverse-systems.php"
-                    >Interfacing of diverse Systems</a
+                  <a href="RASTISPLsimulations-products.php"
+                    >RASTI & SPL Simulations (Acoustics)</a
                   >
                 </li>
                 <li>
-                  <a href="engineering-application.php"
-                    >Engineering Application</a
+                  <a href="TelecomDesignConsultancy-products.php"
+                    >Telecom Design Consultancy</a
                   >
                 </li>
               </ul>
@@ -75,9 +64,9 @@
                 </li>
               </ul>
             </li>
-            <li class="menu-item">
+            <!-- <li class="menu-item">
               <a href="blog-v2-columns.php"> BLOG </a>
-            </li>
+            </li> -->
             <li class="menu-item">
               <a href="gallery-v1.php"> Gallery </a>
             </li>
@@ -183,9 +172,9 @@
           </li>
 
           <!-- Blog -->
-          <li class="drop">
+          <!-- <li class="drop">
             <a class="drop-link" href="blog-v2-columns.php">BLOG</a>
-          </li>
+          </li> -->
 
           <!-- Contact -->
           <li class="drop">

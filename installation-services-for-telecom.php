@@ -82,18 +82,12 @@
             <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
                 <div class="services-list">
                     <ul>								
-                        <li class="active"><a href="installation-services-for-telecom.php">Installation Services for Telecom</a></li>
-                        <li><a href="installation-services-for-signaling.php">Installation Services for Signaling</a></li>
-                        <li><a href="software-development.php">Software Development</a></li>
-                        <li><a href="interfacing-of-diverse-systems.php">Interfacing of Diverse Systems</a></li>
-                        <li><a href="engineering-application.php">Engineering Application</a></li>
+                        <li class="active"><a href="installation-services-for-telecom.php">Telecom Installation & Commissioning Services</a></li>
+                        <li><a href="installation-services-for-signaling.php">Signaling Works – Installation & Commissioning</a></li>
+                        <li><a href="CCTV-Consulting-Coverage-Plans-products.php">CCTV Consulting & Coverage Plans</a></li>
+                        <li><a href="RASTISPLsimulations-products.php">RASTI & SPL Simulations (Acoustics)</a></li>
+                        <li><a href="TelecomDesignConsultancy-products.php">Telecom Design Consultancy</a></li>
                     </ul>
-                </div>
-                <div class="discount">
-                    <span class="percent">-25%</span>
-                    <span class="text-1">APPOINTMENT</span>
-                    <span class="text-2">Online</span>
-                    <a href="#" class="au-btn au-btn-green btn-small">Make Appointment</a>
                 </div>
             </div>
 
@@ -102,38 +96,10 @@
                 <div class="services-detail">
                     <!-- Service Intro -->
                     <div class="services-first">
-                        <img src="images/telecom-installation.avif" alt="Telecom Installation Service">
-                        <h2 class="special-heading">INSTALLATION SERVICES FOR TELECOM</h2>
-                        <p>Our <strong>Telecom Installation Services</strong> are designed to ensure seamless deployment, integration, and performance of communication systems. We provide end-to-end solutions, from planning and setup to testing and maintenance, delivering reliable connectivity for businesses, industries, and institutions.</p>
-                        <p>We understand that in today’s fast-paced digital world, uninterrupted communication is critical. That’s why our team of certified engineers and technicians brings expertise, precision, and commitment to every project. From small-scale office networks to large enterprise and industrial installations, we tailor our solutions to meet your specific requirements.</p>
+                        <h2 class="special-heading">TELECOM INSTALLATION & COMMISSIONING SERVICES</h2>
+                        <p>End-to-end deployment and commissioning of metro telecom systems including PA, PIDS, CCTV, and networking infrastructure—executed with precision and adherence to metro standards.</p>
                     </div>
 
-                    <!-- Pricing Section -->
-                    <div class="services-price">
-                        <h2 class="special-heading">OUR PRICING</h2>
-                        <table>
-                            <tr>
-                                <td>Structured Cabling (per point)</td>
-                                <td>$50.00</td>
-                            </tr>
-                            <tr>
-                                <td>Network Switch/Router Installation</td>
-                                <td>$120.00</td>
-                            </tr>
-                            <tr>
-                                <td>Fiber Optic Splicing (per core)</td>
-                                <td>$30.00</td>
-                            </tr>
-                            <tr>
-                                <td>Antenna & Tower Installation</td>
-                                <td>$500.00</td>
-                            </tr>
-                            <tr>
-                                <td>Testing & Commissioning Package</td>
-                                <td>$150.00</td>
-                            </tr>
-                        </table>
-                    </div>
 
                     <!-- Why Choose Us & Skills -->
                     <div class="row">
@@ -196,6 +162,20 @@
                                             </div>
                                         </div>
                                     </div>
+                                    
+<a href="contact-v2.php"  style="
+    background-color: #054e93;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+  "
+              >Click here</a
+            >
+
                                 </div>
                             </div>
                         </div>
