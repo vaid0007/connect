@@ -764,59 +764,87 @@ An intelligent solution that captures and displays coach occupancy levels on PID
         <div class="container">
           <h2 class="special-heading">Formal Alliances</h2>
           <div class="row">
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
+            <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
               <div class="partner-content">
                 <figure>
                   <img src="images/icons/alliance1.jpg" alt="parner-1" />
                 </figure>
               </div>
             </div>
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
+            <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
               <div class="partner-content">
                 <figure>
                   <img src="images/icons/alliance2.jpg" alt="parner-2" />
                 </figure>
               </div>
             </div>
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
+            <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
               <div class="partner-content">
                 <figure>
                   <img src="images/icons/alliance3.jpg" alt="parner-3" />
                 </figure>
               </div>
             </div>
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
+            <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
               <div class="partner-content">
                 <figure>
-                  <img src="images/icons/alliance4.jpg" alt="parner-4" />
+                  <img src="images/icons/alliance9.jpg" alt="parner-4" />
+                </figure>
+              </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
+              <div class="partner-content">
+                <figure>
+                  <img src="images/icons/alliance16.jpg" alt="parner-4" />
+                </figure>
+              </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
+              <div class="partner-content">
+                <figure>
+                  <img src="images/icons/alliance20.jpg" alt="parner-4" />
                 </figure>
               </div>
             </div>
           </div>
           <br />
           <div class="row">
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
+            <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
               <div class="partner-content">
                 <figure>
-                  <img src="images/icons/alliance5.jpg" alt="parner-1" />
+                  <img src="images/icons/alliance21.jpg" alt="parner-1" />
                 </figure>
               </div>
             </div>
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
+            <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
               <div class="partner-content">
                 <figure>
-                  <img src="images/icons/alliance6.jpg" alt="parner-2" />
+                  <img src="images/icons/alliance22.jpg" alt="parner-2" />
                 </figure>
               </div>
             </div>
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
+            <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
               <div class="partner-content">
                 <figure>
-                  <img src="images/icons/alliance7.jpg" alt="parner-3" />
+                  <img src="images/icons/alliance6.jpg" alt="parner-3" />
                 </figure>
               </div>
             </div>
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
+            <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
+              <div class="partner-content">
+                <figure>
+                  <img src="images/icons/alliance23.jpg" alt="parner-4" />
+                </figure>
+              </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
+              <div class="partner-content">
+                <figure>
+                  <img src="images/icons/alliance5.jpg" alt="parner-4" />
+                </figure>
+              </div>
+            </div>
+            <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
               <div class="partner-content">
                 <figure>
                   <img src="images/icons/alliance8.jpg" alt="parner-4" />
