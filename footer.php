@@ -72,7 +72,6 @@
 								<span><a href="privatepolicy.html">Private Policy</a></span>
 							</div>
 							<section class="map-section">
-  <div class="container">
     <div class="google-map-section google-map-section-v3">
       <div class="map-wrapper">
         <iframe
@@ -87,7 +86,6 @@
         ></iframe>
       </div>
     </div>
-  </div>
 </section>
 						</div>
 					</div>
@@ -98,9 +96,8 @@
 								<i class="la la-home"></i>
 								<div class="contact-detail-inner">
 									<span>Our Address:
-                                          CONNECT COMPUSYS PVT. LTD.
-                                          Flat No. 57, Navjeevan Appartments,
-                                          Pocket 6/3, Nasirpur Dwarka</span>
+                                         Connect Compusys Pvt Limited,  Dwarka Expressway, Delhi NCR ,122017 , Hariyana
+</span>
 								</div>
 							</div>
 							<div class="contact-detail">

@@ -233,11 +233,11 @@
               <div class="services-text">
                 <span
                   ><a href="installation-services-for-telecom.php"
-                    >PA Server</a
+                    >Telecom Installation & Commissioning Services</a
                   ></span
                 >
                 <p>
-                  Centralized Public Address (PA) Server designed for seamless audio control across metro stations. Enables synchronized announcements, remote management, and high-reliability operation for critical passenger communication.
+                  End-to-end deployment and commissioning of metro telecom systems including PA, PIDS, CCTV, and networking infrastructure—executed with precision and adherence to metro standards.
                 </p>
                 <a
                   href="installation-services-for-telecom.php"
@@ -257,11 +257,11 @@
               <div class="services-text">
                 <span
                   ><a href="installation-services-for-signaling.php"
-                    >PIDS Server</a
+                    >Signaling Works – Installation & Commissioning</a
                   ></span
                 >
                 <p>
-                  Robust Passenger Information Display System (PIDS) server that manages real-time data dissemination across display boards and integrates effortlessly with station control systems.
+                 Support for signaling system implementation, cable routing, equipment installation, and field testing in alignment with OEM and metro authority protocols.
                 </p>
                 <a
                   href="installation-services-for-signaling.php"
@@ -280,14 +280,14 @@
                 </div> -->
               <div class="services-text">
                 <span
-                  ><a href="software-development.php"
-                    >Content Management System (CMS)</a
+                  ><a href="CCTV-Consulting-Coverage-Plans-products.php"
+                    >CCTV Consulting & Coverage Plans</a
                   ></span
                 >
                 <p>
-                  A unified software platform that ensures efficient scheduling, distribution, and control of multimedia content across PA and PIDS networks within metro environments.
+                  Expert design and consultancy for CCTV systems across stations and depots, ensuring optimal camera placement, coverage balance, and integration with control room operations.
                 </p>
-                <a href="software-development.php" class="more-link"
+                <a href="CCTV-Consulting-Coverage-Plans-products.php" class="more-link"
                   >Read more</a
                 >
               </div>
@@ -302,14 +302,14 @@
                 </div> -->
               <div class="services-text">
                 <span
-                  ><a href="interfacing-of-diverse-systems.php"
-                    >MMI – Dhwani</a
+                  ><a href="RASTISPLsimulations-products.php"
+                    >RASTI & SPL Simulations (Acoustics)</a
                   ></span
                 >
                 <p>
-                  Our in-house developed Man-Machine Interface, Dhwani, acts as the central control point between the PA and PIDS systems at each station—enabling operators to manage announcements, display content, and alarms through a single intuitive interface.
+                  Comprehensive RASTI (Speech Intelligibility) and SPL (Sound Pressure Level) simulations using EASE acoustic modeling software—ensuring superior audio clarity and uniform sound distribution across station zones.
                 </p>
-                <a href="interfacing-of-diverse-systems.php" class="more-link"
+                <a href="RASTISPLsimulations-products.php" class="more-link"
                   >Read more</a
                 >
               </div>
@@ -324,127 +324,14 @@
                 </div> -->
               <div class="services-text">
                 <span
-                  ><a href="engineering-application.php"
-                    >Spark Detection System for OHE Equipment & Catenary Lines</a
+                  ><a href="TelecomDesignConsultancy-products.php"
+                    >Telecom Design Consultancy</a
                   ></span
                 >
                 <p>
-                  Advanced monitoring system that detects electrical sparking in Overhead Equipment (OHE) and catenary lines, improving safety and enabling predictive maintenance in traction systems.
+                  Complete design solutions covering system architecture, drawings, interface engineering, and documentation for telecom subsystems in metro rail projects.
                 </p>
-                <a href="engineering-application.php" class="more-link"
-                  >Read more</a
-                >
-              </div>
-            </div>
-            <!-- Service 1 -->
-            <div class="services-content">
-              <!-- <div class="services-icon">
-                    <a href="installation-services-for-telecom.php">
-                        <img src="images/icons/hp-1-services-3.png" alt="Installation Services for Telecom">
-                    </a>
-                </div> -->
-              <div class="services-text">
-                <span
-                  ><a href="installation-services-for-telecom.php"
-                    >Battery Monitoring System</a
-                  ></span
-                >
-                <p>
-Intelligent system for real-time monitoring of battery health, voltage, temperature, and charge cycles—ensuring uninterrupted operation of station backup systems.
-                </p>
-                <a
-                  href="installation-services-for-telecom.php"
-                  class="more-link"
-                  >Read more</a
-                >
-              </div>
-            </div>
-
-            <!-- Service 2 -->
-            <div class="services-content">
-              <!-- <div class="services-icon">
-                    <a href="installation-services-for-signaling.php">
-                        <img src="images/icons/hp-1-services-2.png" alt="Installation Services for Signaling">
-                    </a>
-                </div> -->
-              <div class="services-text">
-                <span
-                  ><a href="installation-services-for-signaling.php"
-                    >PAS Interfaces</a
-                  ></span
-                >
-                <p>
-Specialized hardware and software interfaces that enable smooth integration between the Public Address System and other subsystems within metro infrastructure.
-                </p>
-                <a
-                  href="installation-services-for-signaling.php"
-                  class="more-link"
-                  >Read more</a
-                >
-              </div>
-            </div>
-
-            <!-- Service 3 -->
-            <div class="services-content">
-              <!-- <div class="services-icon">
-                    <a href="software-development.php">
-                        <img src="images/icons/hp-1-services-4.png" alt="Software Development">
-                    </a>
-                </div> -->
-              <div class="services-text">
-                <span
-                  ><a href="software-development.php"
-                    >PAS Speakers</a
-                  ></span
-                >
-                <p>
-Comprehensive range of high-clarity speakers including ceiling, wall-mount, projector, and column speakers—engineered for acoustical performance and reliability in metro environments.
-                </p>
-                <a href="software-development.php" class="more-link"
-                  >Read more</a
-                >
-              </div>
-            </div>
-
-            <!-- Service 4 -->
-            <div class="services-content">
-              <!-- <div class="services-icon">
-                    <a href="interfacing-of-diverse-systems.php">
-                        <img src="images/icons/hp-1-services-5.png" alt="Interfacing of Diverse Systems">
-                    </a>
-                </div> -->
-              <div class="services-text">
-                <span
-                  ><a href="interfacing-of-diverse-systems.php"
-                    >PIDS Boards</a
-                  ></span
-                >
-                <p>
-High-visibility Passenger Information Display Boards capable of delivering real-time updates, emergency notifications, and multi-language content with robust industrial-grade design.
-                </p>
-                <a href="interfacing-of-diverse-systems.php" class="more-link"
-                  >Read more</a
-                >
-              </div>
-            </div>
-
-            <!-- Service 5 -->
-            <div class="services-content">
-              <!-- <div class="services-icon">
-                    <a href="engineering-application.php">
-                        <img src="images/icons/hp-1-services-6.png" alt="Engineering Application">
-                    </a>
-                </div> -->
-              <div class="services-text">
-                <span
-                  ><a href="engineering-application.php"
-                    >Passenger Coach Load Display System</a
-                  ></span
-                >
-                <p>
-An intelligent solution that captures and displays coach occupancy levels on PIDS boards, assisting passengers in selecting less crowded coaches for improved travel comfort and efficiency.
-                </p>
-                <a href="engineering-application.php" class="more-link"
+                <a href="TelecomDesignConsultancy-products.php" class="more-link"
                   >Read more</a
                 >
               </div>

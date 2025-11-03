@@ -50,19 +50,9 @@
             </li>
 
             <li class="menu-item">
-              <a href="telecom-products.php">
+              <a href="products.php">
                 Products
-                <span class="arrow">
-                  <i class="la la-angle-down"></i>
-                </span>
               </a>
-              <ul class="menu-dropdown">
-                <li><a href="telecom-products.php">Telecom</a></li>
-                <li><a href="signaling-products.php">Signaling</a></li>
-                <li>
-                  <a href="electrification-products.php">Electrification</a>
-                </li>
-              </ul>
             </li>
             <!-- <li class="menu-item">
               <a href="blog-v2-columns.php"> BLOG </a>
@@ -153,17 +143,9 @@
 
           <!-- Products Dropdown -->
           <li class="drop">
-            <a class="drop-link" href="javascript:void(0)">
+            <a class="drop-link" href="products.php">
               Products
-              <span class="arrow"><i class="la la-angle-down"></i></span>
             </a>
-            <ul class="drop-menu bottom-right">
-              <li><a href="telecom-products.php">Telecom</a></li>
-              <li><a href="signaling-products.php">Signaling</a></li>
-              <li>
-                <a href="electrification-products.php">Electrification</a>
-              </li>
-            </ul>
           </li>
 
           <!-- Gallery -->

@@ -5,7 +5,7 @@
     <!-- Basic Page Needs
   ================================================== -->
     <meta charset="utf-8" />
-    <title>Telecom Products</title>
+    <title>Content Management System (CMS) Products</title>
     <meta name="description" content="" />
     <meta name="author" content="" />
     <!-- Mobile Specific Metas
@@ -112,107 +112,27 @@
 
       <section class="welcome-section section-box js-waypoint">
         <div class="container">
-          <div class="row align-items-center">
+          <div class="row">
             <!-- added align-items-center -->
-            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-              <div class="welcome-content">
-                <h2 class="special-heading">Public Address System (PAS)</h2>
-                <p>
-                  Our PAS installations ensure clear, reliable audio
-                  communication throughout station premises and inside trains.
-                  The system supports automated and manual announcements for
-                  train arrivals, departures, safety, and operational messages.
-                  Integrated with digital amplifiers, codecs, and noise
-                  controllers, our PAS is designed for high intelligibility in
-                  challenging acoustic environments, coordinated seamlessly with
-                  PIDS for timely passenger updates.
-                </p>
-              </div>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
               <div class="welcome-image text-center">
                 <!-- added text-center -->
                 <img
-                  src="images/hp-1-welcome.jpg"
+                  src="images/telecome_pas.jpeg"
+                  class="p-2 img-fluid w-100"
+                  style="height: 400px; object-fit: cover"
                   alt="welcome"
-                  class="img-fluid"
                 />
               </div>
             </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="welcome-section section-box js-waypoint">
-        <div class="container">
-          <div class="row align-items-center">
-            <!-- align items vertically center -->
-
-            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-              <div class="welcome-image text-center">
-                <!-- center image horizontally -->
-                <img
-                  src="images/hp-1-welcome.jpg"
-                  alt="welcome"
-                  class="img-fluid"
-                />
-              </div>
-            </div>
-
             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
               <div class="welcome-content">
-                <h2 class="special-heading">
-                  Passenger Information Display System (PIDS)
-                </h2>
+                <h2 class="special-heading">PA service</h2>
                 <p>
-                  We deploy advanced PIDS solutions providing real-time, dynamic
-                  train information on platforms and concourses. PIDS displays
-                  critical operational updates, including train schedules,
-                  platform information, advisory and emergency messages in
-                  multiple languages, and graphical formats. Information is
-                  managed centrally by the Operational Control Center and
-                  locally at Station Control Rooms, ensuring accuracy and
-                  redundancy. Our installations include True Color LED displays,
-                  durable cabling, server integration, and rigorous network
-                  security.
+                  A unified software platform that ensures efficient scheduling, distribution, and control of multimedia content across PA and PIDS networks within metro environments.
                 </p>
               </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="welcome-section section-box js-waypoint">
-        <div class="container">
-          <div class="row align-items-center">
-            <!-- Vertically center columns -->
-
-            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-              <div class="welcome-content">
-                <h2 class="special-heading">Public Address System (PAS)</h2>
-                <p>
-                  Our PAS installations ensure clear, reliable audio
-                  communication throughout station premises and inside trains.
-                  The system supports automated and manual announcements for
-                  train arrivals, departures, safety, and operational messages.
-                  Integrated with digital amplifiers, codecs, and noise
-                  controllers, our PAS is designed for high intelligibility in
-                  challenging acoustic environments, coordinated seamlessly with
-                  PIDS for timely passenger updates.
-                </p>
-              </div>
-            </div>
-
-            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-              <div class="welcome-image text-center">
-                <!-- center image -->
-                <img
-                  src="images/hp-1-welcome.jpg"
-                  alt="welcome"
-                  class="img-fluid"
-                />
-              </div>
-            </div>
+            </div>       
           </div>
         </div>
       </section>

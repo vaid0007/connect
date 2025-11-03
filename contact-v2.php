@@ -184,8 +184,7 @@
                 </div>
                 <div class="contact-info">
                   <span
-                    >CONNECT COMPUSYS PVT. LTD. Flat No. 57, Navjeevan
-                    Appartments, Pocket 6/3, Nasirpur Dwarka</span
+                    >Connect Compusys Pvt Limited,  Dwarka Expressway, Delhi NCR ,122017 , Hariyana</span
                   >
                 </div>
               </div>

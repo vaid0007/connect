@@ -100,7 +100,7 @@
       >
         <div class="container">
           <div class="breadcrumb-inner">
-            <h1>TELECOM PRODUCTS</h1>
+            <h1>PRODUCTS</h1>
             <ul class="breadcrumbs">
               <li><a class="breadcrumbs-1" href="index.html">Home</a></li>
               <li><p class="breadcrumbs-2">Shop</p></li>
@@ -119,11 +119,11 @@
                 <div class="content-area">
                   <div class="row">
                     <!-- Product-1 -->
-                    <div class="col-lg-4 col-xl-4 col-md-4 col-sm-4 col-12">
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
                       <div class="product type-product">
                         <div class="woocommerce-LoopProduct-link">
                           <div class="product-image">
-                            <a href="#">
+                            <a href="paserviceinfo.php">
                               <img
                                 src="images/telecom-product-1.jpg"
                                 alt="product-1"
@@ -132,28 +132,28 @@
                             </a>
                             <div class="yith-wcwl-add-button show">
                               <a href="#" class="add_to_wishlist">
-                                <i class="la la-heart-o"></i>
+                                
                               </a>
                             </div>
                             <div class="button add_to_cart_button">
-                              <a href="telecominfo.php" class="au-btn btn-small"
+                              <a href="paserviceinfo.php" class="au-btn btn-small"
                                 >View Details</a
                               >
                             </div>
                           </div>
                           <h2 class="woocommerce-loop-product__title">
-                            <a href="#">PCB Jack 6P4C</a>
+                            <a href="paserviceinfo.php">PA Server</a>
                           </h2>
                           
                         </div>
                       </div>
                     </div>
                     <!-- Product-2 -->
-                    <div class="col-lg-4 col-xl-4 col-md-4 col-sm-4 col-12">
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
                       <div class="product type-product">
                         <div class="woocommerce-LoopProduct-link">
                           <div class="product-image">
-                            <a href="#">
+                            <a href="pidsserverinfo,php">
                               <img
                                 src="images/telecom-product-2.jpg"
                                 alt="product-2"
@@ -162,29 +162,29 @@
                             </a>
                             <div class="yith-wcwl-add-button show">
                               <a href="#" class="add_to_wishlist">
-                                <i class="la la-heart-o"></i>
+                                
                               </a>
                             </div>
                             <div class="button add_to_cart_button">
                               
-                              <a href="telecominfo.php" class="au-btn btn-small"
+                              <a href="pidsserverinfo.php" class="au-btn btn-small"
                                 >View Details</a
                               >
                             </div>
                           </div>
                           <h2 class="woocommerce-loop-product__title">
-                            <a href="#">Aetel Lineman Handset</a>
+                            <a href="pidsserverinfo.php">PIDS Server</a>
                           </h2>
                           
                         </div>
                       </div>
                     </div>
                     <!-- Product-3 -->
-                    <div class="col-lg-4 col-xl-4 col-md-4 col-sm-4 col-12">
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
                       <div class="product type-product">
                         <div class="woocommerce-LoopProduct-link">
                           <div class="product-image">
-                            <a href="#">
+                            <a href="contentmanagementsysteminfo.php">
                               <img
                                 src="images/telecom-product-3.jpg"
                                 alt="product-3"
@@ -193,29 +193,29 @@
                             </a>
                             <div class="yith-wcwl-add-button show">
                               <a href="#" class="add_to_wishlist">
-                                <i class="la la-heart-o"></i>
+                                
                               </a>
                             </div>
                             <div class="button add_to_cart_button">
                               
-                              <a href="telecominfo.php" class="au-btn btn-small"
+                              <a href="contentmanagementsysteminfo.php" class="au-btn btn-small"
                                 >View Details</a
                               >
                             </div>
                           </div>
                           <h2 class="woocommerce-loop-product__title">
-                            <a href="#">Krone Module</a>
+                            <a href="contentmanagementsysteminfo.php">Content Management System (CMS)</a>
                           </h2>
                           
                         </div>
                       </div>
                     </div>
                     <!-- Product-4 -->
-                    <div class="col-lg-4 col-xl-4 col-md-4 col-sm-4 col-12">
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
                       <div class="product type-product">
                         <div class="woocommerce-LoopProduct-link">
                           <div class="product-image">
-                            <a href="#">
+                            <a href="mmiDhwaniinfo.php">
                               <img
                                 src="images/telecom-product-4.jpg"
                                 alt="product-4"
@@ -224,29 +224,29 @@
                             </a>
                             <div class="yith-wcwl-add-button show">
                               <a href="#" class="add_to_wishlist">
-                                <i class="la la-heart-o"></i>
+                                
                               </a>
                             </div>
                             <div class="button add_to_cart_button">
                               
-                              <a href="telecominfo.php" class="au-btn btn-small"
+                              <a href="mmiDhwaniinfo.php" class="au-btn btn-small"
                                 >View Details</a
                               >
                             </div>
                           </div>
                           <h2 class="woocommerce-loop-product__title">
-                            <a href="#">RJ11 - 6P2C Connectors</a>
+                            <a href="mmiDhwaniinfo.php">MMI – Dhwani</a>
                           </h2>
                           
                         </div>
                       </div>
                     </div>
                     <!-- Product-5 -->
-                    <div class="col-lg-4 col-xl-4 col-md-4 col-sm-4 col-12">
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
                       <div class="product type-product">
                         <div class="woocommerce-LoopProduct-link">
                           <div class="product-image">
-                            <a href="#">
+                            <a href="sparkdetectionsysteminfo.php">
                               <img
                                 src="images/telecom-product-5.jpg"
                                 alt="product-5"
@@ -255,29 +255,29 @@
                             </a>
                             <div class="yith-wcwl-add-button show">
                               <a href="#" class="add_to_wishlist">
-                                <i class="la la-heart-o"></i>
+                                
                               </a>
                             </div>
                             <div class="button add_to_cart_button">
                               
-                              <a href="telecominfo.php" class="au-btn btn-small"
+                              <a href="sparkdetectionsysteminfo.php" class="au-btn btn-small"
                                 >View Details</a
                               >
                             </div>
                           </div>
                           <h2 class="woocommerce-loop-product__title">
-                            <a href="#">Linecord (2 Meters)</a>
+                            <a href="sparkdetectionsysteminfo.php">Spark Detection System for OHE Equipment & Catenary Lines</a>
                           </h2>
                           
                         </div>
                       </div>
                     </div>
                     <!-- Product-6 -->
-                    <div class="col-lg-4 col-xl-4 col-md-4 col-sm-4 col-12">
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
                       <div class="product type-product">
                         <div class="woocommerce-LoopProduct-link">
                           <div class="product-image">
-                            <a href="#">
+                            <a href="batterymonitoringsystem.php">
                               <img
                                 src="images/telecom-product-6.jpg"
                                 alt="product-6"
@@ -286,25 +286,25 @@
                             </a>
                             <div class="yith-wcwl-add-button show">
                               <a href="#" class="add_to_wishlist">
-                                <i class="la la-heart-o"></i>
+                                
                               </a>
                             </div>
                             <div class="button add_to_cart_button">
                               
-                              <a href="telecominfo.php" class="au-btn btn-small"
+                              <a href="batterymonitoringsystem.php" class="au-btn btn-small"
                                 >View Details</a
                               >
                             </div>
                           </div>
                           <h2 class="woocommerce-loop-product__title">
-                            <a href="#">Coil Cord</a>
+                            <a href="batterymonitoringsystem.php">Battery Monitoring System</a>
                           </h2>
                           
                         </div>
                       </div>
                     </div>
                     <!-- Product-7 -->
-                    <div class="col-lg-4 col-xl-4 col-md-4 col-sm-4 col-12">
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
                       <div class="product type-product">
                         <div class="woocommerce-LoopProduct-link">
                           <div class="product-image">
@@ -316,30 +316,30 @@
                               <div class="overlay"></div>
                             </a>
                             <div class="yith-wcwl-add-button show">
-                              <a href="#" class="add_to_wishlist">
-                                <i class="la la-heart-o"></i>
+                              <a href="pasinterfacesinfo.php" class="add_to_wishlist">
+                                
                               </a>
                             </div>
                             <div class="button add_to_cart_button">
                               
-                              <a href="telecominfo.php" class="au-btn btn-small"
+                              <a href="pasinterfacesinfo.php" class="au-btn btn-small"
                                 >View Details</a
                               >
                             </div>
                           </div>
                           <h2 class="woocommerce-loop-product__title">
-                            <a href="#">Corning Insertion Tool</a>
+                            <a href="pasinterfacesinfo.php">PAS Interfaces</a>
                           </h2>
                           
                         </div>
                       </div>
                     </div>
                     <!-- Product-8 -->
-                    <div class="col-lg-4 col-xl-4 col-md-4 col-sm-4 col-12">
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
                       <div class="product type-product">
                         <div class="woocommerce-LoopProduct-link">
                           <div class="product-image">
-                            <a href="#">
+                            <a href="passpeakersinfo.php">
                               <img
                                 src="images/telecom-product-8.jpg"
                                 alt="product-8"
@@ -348,29 +348,29 @@
                             </a>
                             <div class="yith-wcwl-add-button show">
                               <a href="#" class="add_to_wishlist">
-                                <i class="la la-heart-o"></i>
+                                
                               </a>
                             </div>
                             <div class="button add_to_cart_button">
                               
-                              <a href="telecominfo.php" class="au-btn btn-small"
+                              <a href="passpeakersinfo.php" class="au-btn btn-small"
                                 >View Details</a
                               >
                             </div>
                           </div>
                           <h2 class="woocommerce-loop-product__title">
-                            <a href="#">UY Connector</a>
+                            <a href="passpeakersinfo.php">PAS Speakers</a>
                           </h2>
                           
                         </div>
                       </div>
                     </div>
                     <!-- Product-9 -->
-                    <div class="col-lg-4 col-xl-4 col-md-4 col-sm-4 col-12">
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
                       <div class="product type-product">
                         <div class="woocommerce-LoopProduct-link">
                           <div class="product-image">
-                            <a href="#">
+                            <a href="pidsboardsinfo.php">
                               <img
                                 src="images/telecom-product-9.jpg"
                                 alt="product-9"
@@ -379,20 +379,51 @@
                             </a>
                             <div class="yith-wcwl-add-button show">
                               <a href="#" class="add_to_wishlist">
-                                <i class="la la-heart-o"></i>
+                                
                               </a>
                             </div>
                             <div class="button add_to_cart_button">
                               
-                              <a href="telecominfo.php" class="au-btn btn-small"
+                              <a href="pidsboardsinfo.php" class="au-btn btn-small"
                                 >View Details</a
                               >
                             </div>
                           </div>
                           <h2 class="woocommerce-loop-product__title">
-                            <a href="#">616M Jack 4P4C</a>
+                            <a href="pidsboardsinfo.php">PIDS Boards</a>
                           </h2>
                          
+                        </div>
+                      </div>
+                    </div>
+                    <!-- Product-10 -->
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
+                      <div class="product type-product">
+                        <div class="woocommerce-LoopProduct-link">
+                          <div class="product-image">
+                            <a href="passengercoachloaddisplaysysteminfo.php">
+                              <img
+                                src="images/telecom-product-7.jpg"
+                                alt="product-7"
+                              />
+                              <div class="overlay"></div>
+                            </a>
+                            <div class="yith-wcwl-add-button show">
+                              <a href="#" class="add_to_wishlist">
+                                
+                              </a>
+                            </div>
+                            <div class="button add_to_cart_button">
+                              
+                              <a href="passengercoachloaddisplaysysteminfo.php" class="au-btn btn-small"
+                                >View Details</a
+                              >
+                            </div>
+                          </div>
+                          <h2 class="woocommerce-loop-product__title">
+                            <a href="passengercoachloaddisplaysysteminfo.php">Passenger Coach Load Display System</a>
+                          </h2>
+                          
                         </div>
                       </div>
                     </div>
