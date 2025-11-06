@@ -63,7 +63,7 @@
 		<section class="breadcrumb-battery-car-service breadcrumb-section section-box" style="background-image: url(images/engine-repair-service-bc.jpg)">
 			<div class="container">
 				<div class="breadcrumb-inner">
-					<h1>RASTI & SPL SIMULATIONS (ACOUSTICS)</h1>
+					<h1>Custom Software Development</h1>
 					<ul class="breadcrumbs">
 						<li><a class="breadcrumbs-1" href="index.html">Home</a></li>
 						<li><p class="breadcrumbs-2">Services</p></li>
@@ -80,13 +80,12 @@
 					<div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
 						<div class="services-list">
 							<ul>								
-                        <li class="active"><a href="installation-services-for-telecom.php">Telecom Installation & Commissioning Services</a></li>
+                        <li><a href="installation-services-for-telecom.php">Telecom Installation & Commissioning Services</a></li>
                         <li><a href="installation-services-for-signaling.php">Signaling Works – Installation & Commissioning</a></li>
                         <li><a href="CCTV-Consulting-Coverage-Plans-products.php">CCTV Consulting & Coverage Plans</a></li>
-                        <li class="active"><a href="RASTISPLsimulations-products.php">RASTI & SPL Simulations (Acoustics)</a></li>
+                        <li><a href="RASTISPLsimulations-products.php">RASTI & SPL Simulations (Acoustics)</a></li>
                         <li><a href="TelecomDesignConsultancy-products.php">Telecom Design Consultancy</a></li>
-                        <li><a href="customsoftwaredevelopment-products.php">Custom Software Development</a></li>
-
+   						<li class="active"><a href="customsoftwaredevelopment-products.php">Custom Software Development</a></li>
                     </ul>
 						</div>
 					</div>
@@ -94,8 +93,10 @@
 	<div class="services-detail">
 		<!-- Service Intro -->
 		<div class="services-first">
-			<h2 class="special-heading">RASTI & SPL SIMULATIONS (ACOUSTICS)</h2>
-			<p>Comprehensive RASTI (Speech Intelligibility) and SPL (Sound Pressure Level) simulations using EASE acoustic modeling software—ensuring superior audio clarity and uniform sound distribution across station zones.</p>
+			<h2 class="special-heading">Custom Software Development</h2>
+			<p>Empower your business with tailor-made software designed for performance and flexibility.
+We craft intelligent, user-focused solutions to streamline operations and boost productivity.
+Let technology work the way your business does — smart, seamless, and scalable.</p>
 		</div>
 
 		<div class="row">

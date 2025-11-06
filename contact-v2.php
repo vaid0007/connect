@@ -184,7 +184,7 @@
                 </div>
                 <div class="contact-info">
                   <span
-                    >Connect Compusys Pvt Limited,  Dwarka Expressway, Delhi NCR ,122017 , Hariyana</span
+                    >Connect Compusys Pvt Limited,  Dwarka Expressway, Delhi NCR ,122017 , Haryana</span
                   >
                 </div>
               </div>

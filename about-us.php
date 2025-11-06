@@ -222,9 +222,9 @@
       </section>
       <!-- End Welcome Section -->
 
-      <!-- End Statistics Section -->
 
-      <section
+      <!-- Strat Our Team Section -->
+      <!-- <section
         class="our-team-v1-section our-team-about section-box bg-light py-5"
       >
         <div class="container">
@@ -240,7 +240,6 @@
           ></div>
 
           <div id="our-team" class="owl-carousel owl-theme">
-            <!-- Member 1 -->
             <div class="our-team-content p-3 border rounded shadow-sm bg-white">
               <img
                 src="images/client1.jpg"
@@ -278,7 +277,6 @@
               </div>
             </div>
 
-            <!-- Member 2 -->
             <div class="our-team-content p-3 border rounded shadow-sm bg-white">
               <img
                 src="images/client2.jpg"
@@ -319,7 +317,6 @@
               </div>
             </div>
 
-            <!-- Member 3 -->
             <div class="our-team-content p-3 border rounded shadow-sm bg-white">
               <img
                 src="images/client3.jpg"
@@ -358,7 +355,6 @@
               </div>
             </div>
 
-            <!-- Member 4 -->
             <div class="our-team-content p-3 border rounded shadow-sm bg-white">
               <img
                 src="images/client4.jpg"
@@ -399,7 +395,6 @@
               </div>
             </div>
 
-            <!-- Member 5 -->
             <div class="our-team-content p-3 border rounded shadow-sm bg-white">
               <img
                 src="images/client5.jpg"
@@ -440,8 +435,7 @@
             </div>
           </div>
         </div>
-      </section>
-
+      </section> -->
       <!-- End Our Team Section -->
 
       <section class="welcome-section section-box js-waypoint">

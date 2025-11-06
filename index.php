@@ -104,122 +104,123 @@
 
       <!-- End Slider Revolution Section -->
 
-      <!-- CTA Section -->
-
-      <section class="cta-section section-box">
-        <div class="container">
-          <div class="cta-content">
-            <span
-              class="fw-bold text-white text-center d-block"
-              style="
-                font-size: 30px;
-                letter-spacing: 1px;
-                text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-              "
-            >
-              Welcome to Connect Compusys Pvt. Ltd.
-            </span>
-
-            <!-- <a href="contact-v2.php" class="au-btn btn-small"
-              >Make an Appointment</a
-            > -->
-          </div>
-        </div>
-      </section>
-
-      <!-- End CTA Section -->
-
       <!-- Welcome Section -->
-      <section class="welcome-section section-box js-waypoint">
-        <div class="container">
-          <div class="row">
-            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-              <div class="welcome-content">
-                <h2 class="special-heading">Welcome to Our Company</h2>
-                <p
+<section
+  class="position-relative d-flex align-items-center text-white"
   style="
-    font-family: 'Berlin Sans FB', 'Berlin Sans FB Demi', 'Trebuchet MS', Arial, sans-serif;
-    font-size: 18 px;
-    line-height: 1.8;
-    color: #333;
+    background: url('https://images.unsplash.com/photo-1556761175-129418cb2dfe?auto=format&fit=crop&w=1600&q=80')
+      center center / cover no-repeat;
+    min-height: 70vh;
   "
 >
-  Technology in the 21st century is advancing with an exceptional pace,
-  at Connect Compusys Pvt Ltd we operate in an adaptive and collective
-  approach to create solutions customised to the needs of industry leading
-  firms and organisations. We believe in solving problems with technologically
-  advanced and top of the line solutions. As an objective-oriented company, our
-  workforce is dedicated to providing you the solutions to your problems.
-</p>
+  <div
+    class="position-absolute top-0 start-0 w-100 h-100"
+    style="background: rgba(0, 0, 0, 0.6);"
+  ></div>
 
-                <h2 class="special-heading">We Provide:</h2>
-                <div class="container">
-                  <div class="row">
-                    <div class="col-md-5">
-                      <ul class="list-unstyled">
-                        <li>
-                          <i class="bi bi-check-circle-fill me-2" style="color: #054e93;"></i>Installation designs
-                        </li>
-                        <li>
-                          <i
-                            class="bi bi-check-circle-fill me-2" style="color: #054e93;"
-                          ></i
-                          >Actual installation
-                        </li>
-                        <li>
-                          <i
-                            class="bi bi-check-circle-fill me-2" style="color: #054e93;"
-                          ></i
-                          >Testing and commissioning
-                        </li>
-                        <li>
-                          <i
-                            class="bi bi-check-circle-fill me-2" style="color: #054e93;"
-                          ></i
-                          >Trainings
-                        </li>
-                      </ul>
-                    </div>
-                    <div class="col-md-7">
-                      <ul class="list-unstyled">
-                        <li>
-                          <i
-                            class="bi bi-check-circle-fill me-2" style="color: #054e93;"
-                          ></i
-                          >LAN and WAN Network Implementation
-                        </li>
-                        <li>
-                          <i
-                            class="bi bi-check-circle-fill me-2" style="color: #054e93;"
-                          ></i
-                          >Facility Management
-                        </li>
-                        <li>
-                          <i
-                            class="bi bi-check-circle-fill me-2" style="color: #054e93;"
-                          ></i
-                          >Interfacing solutions for diverse systems
-                        </li>
-                        <li>
-                          <i
-                            class="bi bi-check-circle-fill me-2" style="color: #054e93;"
-                          ></i
-                          >Providing Leased Lines
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+  <div class="container position-relative z-1">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-10">
+        <h2 class="special-heading text-white text-2xl fw-bold mb-4 display-5">
+          Welcome to Our Company
+        </h2>
+        <p
+  style="
+    font-family: 'Berlin Sans FB', 'Berlin Sans FB Demi', 'Trebuchet MS', Arial, sans-serif;
+    font-size: 22px;
+    line-height: 1.8;
+    color: #f1f1f1;
+    text-align: justify;
+  "
+>
+          Technology in the 21st century is advancing with an exceptional pace,
+          at <strong>Connect Compusys Pvt Ltd</strong> we operate in an adaptive
+          and collective approach to create solutions customised to the needs of
+          industry-leading firms and organisations. We believe in solving problems
+          with technologically advanced and top-of-the-line solutions. As an
+          objective-oriented company, our workforce is dedicated to providing you
+          the solutions to your problems.
+        </p>
+        <a href="#weprovide" class="btn btn-primary mt-3 px-4 py-2">
+          Learn More
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ✅ We Provide Section (Below Banner) -->
+<section id="weprovide" class="py-5 bg-light">
+  <div class="container">
+    <div class="text-center mb-5">
+      <h2 class="special-heading fw-bold text-dark">We Provide:</h2>
+    </div>
+
+    <div class="row justify-content-center">
+      <!-- Column 1 -->
+      <div class="col-md-5 mb-4">
+        <ul class="list-unstyled fs-5">
+          <li class="mb-2">
+            <i class="bi bi-check-circle-fill me-2" style="color: #054e93;"></i>
+            Installation designs
+          </li>
+          <li class="mb-2">
+            <i class="bi bi-check-circle-fill me-2" style="color: #054e93;"></i>
+            Actual installation
+          </li>
+          <li class="mb-2">
+            <i class="bi bi-check-circle-fill me-2" style="color: #054e93;"></i>
+            Testing and commissioning
+          </li>
+          <li class="mb-2">
+            <i class="bi bi-check-circle-fill me-2" style="color: #054e93;"></i>
+            Trainings
+          </li>
+        </ul>
+      </div>
+
+      <!-- Column 2 -->
+      <div class="col-md-5 mb-4">
+        <ul class="list-unstyled fs-5">
+          <li class="mb-2">
+            <i class="bi bi-check-circle-fill me-2" style="color: #054e93;"></i>
+            LAN and WAN Network Implementation
+          </li>
+          <li class="mb-2">
+            <i class="bi bi-check-circle-fill me-2" style="color: #054e93;"></i>
+            Facility Management
+          </li>
+          <li class="mb-2">
+            <i class="bi bi-check-circle-fill me-2" style="color: #054e93;"></i>
+            Interfacing solutions for diverse systems
+          </li>
+          <li class="mb-2">
+            <i class="bi bi-check-circle-fill me-2" style="color: #054e93;"></i>
+            Providing Leased Lines
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
 
       <!-- End Welcome Section -->
 
+      <!-- Blue & Yellow Divider Line -->
+<div class="container-fluid py-2">
+  <div class="d-flex justify-content-center align-items-center">
+    <div style="width: 120px; height: 5px; background-color: #054e93; border-radius: 5px;"></div>
+    <div style="width: 120px; height: 5px; background-color: #ffcc00; border-radius: 5px; margin-left: 10px;"></div>
+  </div>
+</div>
+
+
+
       <!-- Our Services Section -->
-      <section class="services-section section-box">
+      <section
+          class="services-section section-box py-5"
+          style="background-color: #ffffff;">
         <div class="container">
           <h2 class="special-heading">OUR SERVICES</h2>
           <div id="services-hp-1" class="owl-carousel owl-theme">
@@ -339,6 +340,15 @@
           </div>
         </div>
       </section>
+
+      <!-- Blue & Yellow Divider Line -->
+<div class="container-fluid py-2">
+  <div class="d-flex justify-content-center align-items-center">
+    <div style="width: 120px; height: 5px; background-color: #054e93; border-radius: 5px;"></div>
+    <div style="width: 120px; height: 5px; background-color: #ffcc00; border-radius: 5px; margin-left: 10px;"></div>
+  </div>
+</div>
+
 
       <!-- End Our Services Section -->
 
@@ -727,7 +737,7 @@
             <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-12">
               <div class="partner-content">
                 <figure>
-                  <img src="images/icons/alliance5.jpg" alt="parner-4" />
+                  <img src="images/icons/alliance50.jpg" alt="parner-4" />
                 </figure>
               </div>
             </div>

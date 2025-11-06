@@ -49,12 +49,12 @@
 										Products
 									</a>
 								</li>
-								<li>
+								<!-- <li>
 									<a href="blog-v2-columns.php">
 										<i class="la la-angle-right"></i>
 										Blog
 									</a>
-								</li>
+								</li> -->
 								<li>
 									<a href="contact-v2.php">
 										<i class="la la-angle-right"></i>
@@ -96,7 +96,7 @@
 								<i class="la la-home"></i>
 								<div class="contact-detail-inner">
 									<span>Our Address:
-                                         Connect Compusys Pvt Limited,  Dwarka Expressway, Delhi NCR ,122017 , Hariyana
+                                         Connect Compusys Pvt Limited,  Dwarka Expressway, Delhi NCR ,122017 , Haryana
 </span>
 								</div>
 							</div>
