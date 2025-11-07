@@ -5,7 +5,7 @@
     <!-- Basic Page Needs
   ================================================== -->
     <meta charset="utf-8" />
-    <title>Telecom Products</title>
+    <title>Complete Telecom Software Solution</title>
     <meta name="description" content="" />
     <meta name="author" content="" />
     <!-- Mobile Specific Metas
@@ -100,149 +100,95 @@
       >
         <div class="container">
           <div class="breadcrumb-inner">
-            <h1>TELECOM PRODUCTS</h1>
+            <h1>Complete Telecom Software Solution</h1>
             <ul class="breadcrumbs">
               <li><a class="breadcrumbs-1" href="index.html">Home</a></li>
-              <li><p class="breadcrumbs-2">Shop</p></li>
+              <li><p class="breadcrumbs-2">Products</p></li>
             </ul>
           </div>
         </div>
       </section>
       <!-- End Breadcrumb Section -->
 
-      
-      <section class="welcome-section section-box js-waypoint">
-        <div class="container">
-          <div class="row align-items-center">
-            <!-- added align-items-center -->
-            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-              <div class="welcome-content">
-                <h2 class="special-heading">Our Signaling Solutions</h2>
-                <p>
-                  CCPL provides comprehensive signaling products and services
-                  essential for modern rail and metro networks:
-                </p>
-                <ul class="list-unstyled list-group list-group-flush">
-                  <li class="mb-2">
-                    • <strong>Axle Counters</strong> – Track vacancy detection
-                    for safe train movement.
-                  </li>
-                  <li class="mb-2">
-                    • <strong>ATS (Automatic Train Supervision)</strong> –
-                    Centralized monitoring and control of train operations.
-                  </li>
-                  <li class="mb-2">
-                    • <strong>ATP (Automatic Train Protection)</strong> –
-                    Enforces safety by preventing over-speeding and signal
-                    violations.
-                  </li>
-                  <li class="mb-2">
-                    • <strong>ATO (Automatic Train Operation)</strong> – Enables
-                    semi/fully automated train driving.
-                  </li>
-                  <li class="mb-2">
-                    • <strong>FTGS (Flank Track Guard System)</strong> –
-                    Prevents side collisions at junctions.
-                  </li>
-                  <li class="mb-2">
-                    • <strong>Point Machines</strong> – Operate and control
-                    track switches with precision.
-                  </li>
-                  <li class="mb-2">
-                    • <strong>Signals</strong> – Provide visual indications for
-                    safe train control.
-                  </li>
-                  <li class="mb-2">
-                    • <strong>IT Systems Integration</strong> – Ensuring
-                    reliability and performance of IT-driven signaling
-                    subsystems.
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-              <div class="welcome-image text-center">
-                <!-- added text-center -->
-                <img
-                  src="images/hp-1-welcome.jpg"
-                  alt="welcome"
-                  class="img-fluid"
-                />
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      <!-- Product Section -->
+<section class="container my-5" style="background:#fff; border-radius:20px; box-shadow:0 4px 15px rgba(0,0,0,0.1); overflow:hidden; padding:30px;">
 
-      <!-- <section class="welcome-section section-box js-waypoint">
-        <div class="container">
-          <div class="row align-items-center">
+  <div class="row align-items-center">
+    
+    <!-- Left: Product Image -->
+    <div class="col-md-6 text-center mb-4 mb-md-0">
+      <img src="images/icons/MMI.png" alt="Product Image" class="img-fluid rounded" style="max-height:400px; object-fit:cover; border-radius:15px;">
+    </div>
+    
+    <!-- Right: Content -->
+    <div class="col-md-6" style="position:relative;">
+      <h2 style="font-weight:700; color:#015199; text-shadow:2px 2px 8px rgba(0,0,0,0.2); letter-spacing:1px;">Syncontrol Man Machine Interface (MMI / HMI)</h2>
+      <p style="font-size:16px; color:#555; line-height:1.7; margin-top:15px; text-align:justify;">
+Description: The syncontrol MMI is the Apex layer of the CSP, giving the user maximum control over the designated estate. the syncontrol MMI can be tailored to the users Requirements depending on the number of Addressable Zones for both Announcements and Displays, with the use of this highly interactive software the user claims complete control over the telecommunications devices/products connected on their network. Originally built for Metro Rail applications , this software along with the rest of the CSP , has been used by Delhi Metro Rail Corporation to control the telecom systems for India's Fastest Metro Line. However the syncontrol MMI can be used as a multipurpose solution in other Public Sectors like , Malls , Shopping Complexes, Multiplexes or any Public based areas.      </p>
+    </div>
+  </div>
+</section>
 
-            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-              <div class="welcome-image text-center">
-                <img
-                  src="images/hp-1-welcome.jpg"
-                  alt="welcome"
-                  class="img-fluid"
-                />
-              </div>
-            </div>
+<section class="container my-5" style="background:#fff; border-radius:20px; box-shadow:0 4px 15px rgba(0,0,0,0.1); overflow:hidden; padding:30px;">
 
-            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-              <div class="welcome-content">
-                <h2 class="special-heading">
-                  Passenger Information Display System (PIDS)
-                </h2>
-                <p>
-                  We deploy advanced PIDS solutions providing real-time, dynamic
-                  train information on platforms and concourses. PIDS displays
-                  critical operational updates, including train schedules,
-                  platform information, advisory and emergency messages in
-                  multiple languages, and graphical formats. Information is
-                  managed centrally by the Operational Control Center and
-                  locally at Station Control Rooms, ensuring accuracy and
-                  redundancy. Our installations include True Color LED displays,
-                  durable cabling, server integration, and rigorous network
-                  security.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+  <div class="row align-items-center">
+    
+    <!-- Left: Product Image -->
+    <div class="col-md-6 text-center mb-4 mb-md-0">
+      <img src="images/icons/COMSERVER.png" alt="Product Image" class="img-fluid rounded" style="max-height:400px; object-fit:cover; border-radius:15px;">
+    </div>
+    
+    <!-- Right: Content -->
+    <div class="col-md-6" style="position:relative;">
+      <h2 style="font-weight:700; color:#015199; text-shadow:2px 2px 8px rgba(0,0,0,0.2); letter-spacing:1px;">Communications Server</h2>
+      <p style="font-size:16px; color:#555; line-height:1.7; margin-top:15px; text-align:justify;">
+The Communications Server (COM Server), is Developed as the Communications layer for this solution and is an integral part of The Connect Software Package (CSP) , 
+The COM Server acts as the Middle layer between the backend and the GUI based MMI/HMI, allowing for efficient traversal of data across software layers. The COM Server is developed with a Decentralised approach , which allows the opportunity for potential Public Addressing OEMs to be a part of this Solution, Due this Universally accepting and a large possibility for integration with various APIs for software and hardware , the COM server Skyrockets the Application capability of the complete software package exponentially.      </p>
+    </div>
+  </div>
+</section>
 
-      <section class="welcome-section section-box js-waypoint">
-        <div class="container">
-          <div class="row align-items-center">
+<section class="container my-5" style="background:#fff; border-radius:20px; box-shadow:0 4px 15px rgba(0,0,0,0.1); overflow:hidden; padding:30px;">
 
-            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-              <div class="welcome-content">
-                <h2 class="special-heading">Public Address System (PAS)</h2>
-                <p>
-                  Our PAS installations ensure clear, reliable audio
-                  communication throughout station premises and inside trains.
-                  The system supports automated and manual announcements for
-                  train arrivals, departures, safety, and operational messages.
-                  Integrated with digital amplifiers, codecs, and noise
-                  controllers, our PAS is designed for high intelligibility in
-                  challenging acoustic environments, coordinated seamlessly with
-                  PIDS for timely passenger updates.
-                </p>
-              </div>
-            </div>
+  <div class="row align-items-center">
+    
+    <!-- Left: Product Image -->
+    <div class="col-md-6 text-center mb-4 mb-md-0">
+      <img src="images/icons/PIDSclient.png" alt="Product Image" class="img-fluid rounded" style="max-height:400px; object-fit:cover; border-radius:15px;">
+    </div>
+    
+    <!-- Right: Content -->
+    <div class="col-md-6" style="position:relative;">
+      <h2 style="font-weight:700; color:#015199; text-shadow:2px 2px 8px rgba(0,0,0,0.2); letter-spacing:1px;">PID Client</h2>
+      <p style="font-size:16px; color:#555; line-height:1.7; margin-top:15px; text-align:justify;">
+Designed to operate directly with the CSP , the PID Client is a Robust, effective and essential Software in the package. the Public Information Display Client is the remote module of the package, built on similar lines as the rest of the modules , i.e. Universal integrability empowering the solution to be applicable irrespective of the Hardware. designed to be functional with minimal processing power and Supporting Windows as well Linux Operating Systems, the PID client proves to be an essential part to this solution. The PID client has the capability to run individually right on the Remote Information Display Hardware, can be used to display , advertisements, wayfinding softwares , Metro Rail Arrival information etc.      </p>
+    </div>
+  </div>
+</section>
 
-            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-              <div class="welcome-image text-center">
-                <img
-                  src="images/hp-1-welcome.jpg"
-                  alt="welcome"
-                  class="img-fluid"
-                />
-              </div>
-            </div>
-          </div>
-        </div>
-      </section> -->
+<section class="container my-5" style="background:#fff; border-radius:20px; box-shadow:0 4px 15px rgba(0,0,0,0.1); overflow:hidden; padding:30px;">
+
+  <div class="row align-items-center">
+    
+    <!-- Left: Product Image -->
+    <div class="col-md-6 text-center mb-4 mb-md-0">
+      <img src="images/icons/NMS.png" alt="Product Image" class="img-fluid rounded" style="max-height:400px; object-fit:cover; border-radius:15px;">
+    </div>
+    
+    <!-- Right: Content -->
+    <div class="col-md-6" style="position:relative;">
+      <h2 style="font-weight:700; color:#015199; text-shadow:2px 2px 8px rgba(0,0,0,0.2); letter-spacing:1px;">
+  Network Management Software
+</h2>
+
+      <p style="font-size:16px; color:#555; line-height:1.7; margin-top:15px; text-align:justify;">
+The NMS is a Management and alarming component included in the CSP, essential for purposes related to alarms management , logging and monitoring facilities of telecom components connected to the networks. the NMS software just like the other components can be connected and integrated with all sorts of Telecom Equipment with use of relevant API commands and functions, the NMS can be used to communicate for its functionality over multiple communication protocols like , TCP/IP , MODBUS TCP , SIP , SNMP etc.      </p>
+    </div>
+  </div>
+</section>
+
+
+      <!-- End Product Section -->
 
       <section class="cta-section section-box">
         <div class="container">
@@ -255,7 +201,7 @@
                 text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
               "
             >
-              Have a quary related to products
+              Have a query related to products
             </span>
 
             <a href="contact-v2.php" class="au-btn btn-small"

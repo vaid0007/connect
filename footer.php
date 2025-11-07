@@ -44,7 +44,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="telecom-products.php">
+									<a href="products.php">
 										<i class="la la-angle-right"></i>
 										Products
 									</a>

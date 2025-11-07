@@ -5,7 +5,7 @@
     <!-- Basic Page Needs
   ================================================== -->
     <meta charset="utf-8" />
-    <title>Telecom Products</title>
+    <title>Products</title>
     <meta name="description" content="" />
     <meta name="author" content="" />
     <!-- Mobile Specific Metas
@@ -103,7 +103,6 @@
             <h1>PRODUCTS</h1>
             <ul class="breadcrumbs">
               <li><a class="breadcrumbs-1" href="index.html">Home</a></li>
-              <li><p class="breadcrumbs-2">Shop</p></li>
             </ul>
           </div>
         </div>
@@ -111,329 +110,130 @@
       <!-- End Breadcrumb Section -->
 
       <!-- Product Section -->
-      <section class="shop-product-page blog-left-section section-box">
-        <div class="container">
-          <div class="woocommerce">
-            <div class="row">
-              <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                <div class="content-area">
-                  <div class="row">
-                    <!-- Product-1 -->
-                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
-                      <div class="product type-product">
-                        <div class="woocommerce-LoopProduct-link">
-                          <div class="product-image">
-                            <a href="paserviceinfo.php">
-                              <img
-                                src="images/telecom-product-1.jpg"
-                                alt="product-1"
-                              />
-                              <div class="overlay"></div>
-                            </a>
-                            <div class="yith-wcwl-add-button show">
-                              <a href="#" class="add_to_wishlist">
-                                
-                              </a>
-                            </div>
-                            <div class="button add_to_cart_button">
-                              <a href="paserviceinfo.php" class="au-btn btn-small"
-                                >View Details</a
-                              >
-                            </div>
-                          </div>
-                          <h2 class="woocommerce-loop-product__title">
-                            <a href="paserviceinfo.php">PA Server</a>
-                          </h2>
-                          
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Product-2 -->
-                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
-                      <div class="product type-product">
-                        <div class="woocommerce-LoopProduct-link">
-                          <div class="product-image">
-                            <a href="pidsserverinfo,php">
-                              <img
-                                src="images/telecom-product-2.jpg"
-                                alt="product-2"
-                              />
-                              <div class="overlay"></div>
-                            </a>
-                            <div class="yith-wcwl-add-button show">
-                              <a href="#" class="add_to_wishlist">
-                                
-                              </a>
-                            </div>
-                            <div class="button add_to_cart_button">
-                              
-                              <a href="pidsserverinfo.php" class="au-btn btn-small"
-                                >View Details</a
-                              >
-                            </div>
-                          </div>
-                          <h2 class="woocommerce-loop-product__title">
-                            <a href="pidsserverinfo.php">PIDS Server</a>
-                          </h2>
-                          
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Product-3 -->
-                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
-                      <div class="product type-product">
-                        <div class="woocommerce-LoopProduct-link">
-                          <div class="product-image">
-                            <a href="contentmanagementsysteminfo.php">
-                              <img
-                                src="images/telecom-product-3.jpg"
-                                alt="product-3"
-                              />
-                              <div class="overlay"></div>
-                            </a>
-                            <div class="yith-wcwl-add-button show">
-                              <a href="#" class="add_to_wishlist">
-                                
-                              </a>
-                            </div>
-                            <div class="button add_to_cart_button">
-                              
-                              <a href="contentmanagementsysteminfo.php" class="au-btn btn-small"
-                                >View Details</a
-                              >
-                            </div>
-                          </div>
-                          <h2 class="woocommerce-loop-product__title">
-                            <a href="contentmanagementsysteminfo.php">Content Management System (CMS)</a>
-                          </h2>
-                          
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Product-4 -->
-                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
-                      <div class="product type-product">
-                        <div class="woocommerce-LoopProduct-link">
-                          <div class="product-image">
-                            <a href="mmiDhwaniinfo.php">
-                              <img
-                                src="images/telecom-product-4.jpg"
-                                alt="product-4"
-                              />
-                              <div class="overlay"></div>
-                            </a>
-                            <div class="yith-wcwl-add-button show">
-                              <a href="#" class="add_to_wishlist">
-                                
-                              </a>
-                            </div>
-                            <div class="button add_to_cart_button">
-                              
-                              <a href="mmiDhwaniinfo.php" class="au-btn btn-small"
-                                >View Details</a
-                              >
-                            </div>
-                          </div>
-                          <h2 class="woocommerce-loop-product__title">
-                            <a href="mmiDhwaniinfo.php">MMI – Dhwani</a>
-                          </h2>
-                          
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Product-5 -->
-                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
-                      <div class="product type-product">
-                        <div class="woocommerce-LoopProduct-link">
-                          <div class="product-image">
-                            <a href="sparkdetectionsysteminfo.php">
-                              <img
-                                src="images/telecom-product-5.jpg"
-                                alt="product-5"
-                              />
-                              <div class="overlay"></div>
-                            </a>
-                            <div class="yith-wcwl-add-button show">
-                              <a href="#" class="add_to_wishlist">
-                                
-                              </a>
-                            </div>
-                            <div class="button add_to_cart_button">
-                              
-                              <a href="sparkdetectionsysteminfo.php" class="au-btn btn-small"
-                                >View Details</a
-                              >
-                            </div>
-                          </div>
-                          <h2 class="woocommerce-loop-product__title">
-                            <a href="sparkdetectionsysteminfo.php">Spark Detection System for OHE Equipment & Catenary Lines</a>
-                          </h2>
-                          
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Product-6 -->
-                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
-                      <div class="product type-product">
-                        <div class="woocommerce-LoopProduct-link">
-                          <div class="product-image">
-                            <a href="batterymonitoringsystem.php">
-                              <img
-                                src="images/telecom-product-6.jpg"
-                                alt="product-6"
-                              />
-                              <div class="overlay"></div>
-                            </a>
-                            <div class="yith-wcwl-add-button show">
-                              <a href="#" class="add_to_wishlist">
-                                
-                              </a>
-                            </div>
-                            <div class="button add_to_cart_button">
-                              
-                              <a href="batterymonitoringsystem.php" class="au-btn btn-small"
-                                >View Details</a
-                              >
-                            </div>
-                          </div>
-                          <h2 class="woocommerce-loop-product__title">
-                            <a href="batterymonitoringsystem.php">Battery Monitoring System</a>
-                          </h2>
-                          
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Product-7 -->
-                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
-                      <div class="product type-product">
-                        <div class="woocommerce-LoopProduct-link">
-                          <div class="product-image">
-                            <a href="#">
-                              <img
-                                src="images/telecom-product-7.jpg"
-                                alt="product-7"
-                              />
-                              <div class="overlay"></div>
-                            </a>
-                            <div class="yith-wcwl-add-button show">
-                              <a href="pasinterfacesinfo.php" class="add_to_wishlist">
-                                
-                              </a>
-                            </div>
-                            <div class="button add_to_cart_button">
-                              
-                              <a href="pasinterfacesinfo.php" class="au-btn btn-small"
-                                >View Details</a
-                              >
-                            </div>
-                          </div>
-                          <h2 class="woocommerce-loop-product__title">
-                            <a href="pasinterfacesinfo.php">PAS Interfaces</a>
-                          </h2>
-                          
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Product-8 -->
-                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
-                      <div class="product type-product">
-                        <div class="woocommerce-LoopProduct-link">
-                          <div class="product-image">
-                            <a href="passpeakersinfo.php">
-                              <img
-                                src="images/telecom-product-8.jpg"
-                                alt="product-8"
-                              />
-                              <div class="overlay"></div>
-                            </a>
-                            <div class="yith-wcwl-add-button show">
-                              <a href="#" class="add_to_wishlist">
-                                
-                              </a>
-                            </div>
-                            <div class="button add_to_cart_button">
-                              
-                              <a href="passpeakersinfo.php" class="au-btn btn-small"
-                                >View Details</a
-                              >
-                            </div>
-                          </div>
-                          <h2 class="woocommerce-loop-product__title">
-                            <a href="passpeakersinfo.php">PAS Speakers</a>
-                          </h2>
-                          
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Product-9 -->
-                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
-                      <div class="product type-product">
-                        <div class="woocommerce-LoopProduct-link">
-                          <div class="product-image">
-                            <a href="pidsboardsinfo.php">
-                              <img
-                                src="images/telecom-product-9.jpg"
-                                alt="product-9"
-                              />
-                              <div class="overlay"></div>
-                            </a>
-                            <div class="yith-wcwl-add-button show">
-                              <a href="#" class="add_to_wishlist">
-                                
-                              </a>
-                            </div>
-                            <div class="button add_to_cart_button">
-                              
-                              <a href="pidsboardsinfo.php" class="au-btn btn-small"
-                                >View Details</a
-                              >
-                            </div>
-                          </div>
-                          <h2 class="woocommerce-loop-product__title">
-                            <a href="pidsboardsinfo.php">PIDS Boards</a>
-                          </h2>
-                         
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Product-10 -->
-                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-2 col-12">
-                      <div class="product type-product">
-                        <div class="woocommerce-LoopProduct-link">
-                          <div class="product-image">
-                            <a href="passengercoachloaddisplaysysteminfo.php">
-                              <img
-                                src="images/telecom-product-7.jpg"
-                                alt="product-7"
-                              />
-                              <div class="overlay"></div>
-                            </a>
-                            <div class="yith-wcwl-add-button show">
-                              <a href="#" class="add_to_wishlist">
-                                
-                              </a>
-                            </div>
-                            <div class="button add_to_cart_button">
-                              
-                              <a href="passengercoachloaddisplaysysteminfo.php" class="au-btn btn-small"
-                                >View Details</a
-                              >
-                            </div>
-                          </div>
-                          <h2 class="woocommerce-loop-product__title">
-                            <a href="passengercoachloaddisplaysysteminfo.php">Passenger Coach Load Display System</a>
-                          </h2>
-                          
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+<section class="container my-5" style="background:#fff; border-radius:20px; box-shadow:0 4px 15px rgba(0,0,0,0.1); overflow:hidden; padding:30px;">
+
+  <div class="row align-items-center">
+    
+    <!-- Left: Product Image -->
+    <div class="col-md-6 text-center mb-4 mb-md-0">
+      <img src="images/icons/CSP.png" alt="Product Image" class="img-fluid rounded" style="max-height:400px; object-fit:cover; border-radius:15px;">
+    </div>
+    
+    <!-- Right: Content -->
+    <div class="col-md-6" style="position:relative;">
+      <h2 style="font-weight:700; color:#015199; text-shadow:2px 2px 8px rgba(0,0,0,0.2); letter-spacing:1px;">Complete Telecom Software Solution</h2>
+      <p style="font-size:16px; color:#555; line-height:1.7; margin-top:15px; text-align:justify;">
+Connect has designed and developed a complete software solution (Connect Software Package) for Telecommunication 
+and General Public Addressing Applications
+This is an End-to-End completely integrated software based solution, operating as a group of Softwares , this 
+solution is custom built for your
+</p>
+<p style="font-size:16px; color:#555; line-height:1.7; margin-top:15px; text-align:justify;">
+requirements. Integrating in Pre-Existing setups with ease , this is solution proves to be a viable 
+choice for partial Upgrades for Brown field Projects in pre-existing environments, as well as with its
+ own preset of softwares , connect offers a cost efficient and feature rich solution also available for 
+ Green field projects from scratch.</p>
+
+      <!-- Button: bottom right -->
+      <div style="position:absolute; bottom:0; right:0;">
+        <a href="completetelecomsoftwaresolution.php" class="btn btn-warning px-4 py-2" style="border-radius:50px; font-weight:600; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+          Know More
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="container my-5" style="background:#fff; border-radius:20px; box-shadow:0 4px 15px rgba(0,0,0,0.1); overflow:hidden; padding:30px;">
+  <div class="row align-items-center">
+    
+    <!-- Left: Product Image -->
+    <div class="col-md-6 text-center mb-4 mb-md-0">
+      <img src="images/Company_Overview.jpg" alt="Product Image" class="img-fluid rounded" style="max-height:400px; object-fit:cover; border-radius:15px;">
+    </div>
+    
+    <!-- Right: Content -->
+    <div class="col-md-6" style="position:relative;">
+      <h2 style="font-weight:700; color:#015199; text-shadow:2px 2px 8px rgba(0,0,0,0.2); letter-spacing:1px;">Lorem Ipsum Product Title</h2>
+      <p style="font-size:16px; color:#555; line-height:1.7; margin-top:15px; text-align:justify;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed magna ut sapien lacinia tempor. Cras tincidunt, odio sed pretium interdum, magna velit facilisis justo, vel elementum augue ex et libero.
+      </p>
+      <ul style="margin-top:15px; color:#333;">
+        <li>✅ Lorem ipsum dolor sit amet</li>
+        <li>📈 Consectetur adipiscing elit</li>
+        <li>🌍 Sed do eiusmod tempor incididunt</li>
+      </ul>
+
+      <!-- Button: bottom right -->
+      <div style="position:absolute; bottom:0; right:0;">
+        <a href="#" class="btn btn-warning px-4 py-2" style="border-radius:50px; font-weight:600; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+          Know More
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="container my-5" style="background:#fff; border-radius:20px; box-shadow:0 4px 15px rgba(0,0,0,0.1); overflow:hidden; padding:30px;">
+  <div class="row align-items-center">
+    
+    <!-- Left: Product Image -->
+    <div class="col-md-6 text-center mb-4 mb-md-0">
+      <img src="images/Company_Overview.jpg" alt="Product Image" class="img-fluid rounded" style="max-height:400px; object-fit:cover; border-radius:15px;">
+    </div>
+    
+    <!-- Right: Content -->
+    <div class="col-md-6" style="position:relative;">
+      <h2 style="font-weight:700; color:#015199; text-shadow:2px 2px 8px rgba(0,0,0,0.2); letter-spacing:1px;">Lorem Ipsum Product Title</h2>
+      <p style="font-size:16px; color:#555; line-height:1.7; margin-top:15px; text-align:justify;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed magna ut sapien lacinia tempor. Cras tincidunt, odio sed pretium interdum, magna velit facilisis justo, vel elementum augue ex et libero.
+      </p>
+      <ul style="margin-top:15px; color:#333;">
+        <li>✅ Lorem ipsum dolor sit amet</li>
+        <li>📈 Consectetur adipiscing elit</li>
+        <li>🌍 Sed do eiusmod tempor incididunt</li>
+      </ul>
+
+      <!-- Button: bottom right -->
+      <div style="position:absolute; bottom:0; right:0;">
+        <a href="#" class="btn btn-warning px-4 py-2" style="border-radius:50px; font-weight:600; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+          Know More
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="container my-5" style="background:#fff; border-radius:20px; box-shadow:0 4px 15px rgba(0,0,0,0.1); overflow:hidden; padding:30px;">
+  <div class="row align-items-center">
+    
+    <!-- Left: Product Image -->
+    <div class="col-md-6 text-center mb-4 mb-md-0">
+      <img src="images/Company_Overview.jpg" alt="Product Image" class="img-fluid rounded" style="max-height:400px; object-fit:cover; border-radius:15px;">
+    </div>
+    
+    <!-- Right: Content -->
+    <div class="col-md-6" style="position:relative;">
+      <h2 style="font-weight:700; color:#015199; text-shadow:2px 2px 8px rgba(0,0,0,0.2); letter-spacing:1px;">Lorem Ipsum Product Title</h2>
+      <p style="font-size:16px; color:#555; line-height:1.7; margin-top:15px; text-align:justify;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed magna ut sapien lacinia tempor. Cras tincidunt, odio sed pretium interdum, magna velit facilisis justo, vel elementum augue ex et libero.
+      </p>
+      <ul style="margin-top:15px; color:#333;">
+        <li>✅ Lorem ipsum dolor sit amet</li>
+        <li>📈 Consectetur adipiscing elit</li>
+        <li>🌍 Sed do eiusmod tempor incididunt</li>
+      </ul>
+
+      <!-- Button: bottom right -->
+      <div style="position:absolute; bottom:0; right:0;">
+        <a href="#" class="btn btn-warning px-4 py-2" style="border-radius:50px; font-weight:600; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+          Know More
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
       <!-- End Product Section -->
 
       <section class="cta-section section-box">

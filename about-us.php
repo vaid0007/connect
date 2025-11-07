@@ -172,6 +172,14 @@
         </div>
       </section>
 
+
+      <div class="container-fluid py-2">
+  <div class="d-flex justify-content-center align-items-center">
+    <div style="width: 120px; height: 5px; background-color: #054e93; border-radius: 5px;"></div>
+    <div style="width: 120px; height: 5px; background-color: #ffcc00; border-radius: 5px; margin-left: 10px;"></div>
+  </div>
+</div>
+
       <section class="welcome-section section-box js-waypoint">
         <div class="container">
           <div class="row">
@@ -221,6 +229,13 @@
         </div>
       </section>
       <!-- End Welcome Section -->
+
+      <div class="container-fluid py-2">
+  <div class="d-flex justify-content-center align-items-center">
+    <div style="width: 120px; height: 5px; background-color: #054e93; border-radius: 5px;"></div>
+    <div style="width: 120px; height: 5px; background-color: #ffcc00; border-radius: 5px; margin-left: 10px;"></div>
+  </div>
+</div>
 
 
       <!-- Strat Our Team Section -->
@@ -473,6 +488,13 @@
         </div>
       </section>
 
+      <div class="container-fluid py-2">
+  <div class="d-flex justify-content-center align-items-center">
+    <div style="width: 120px; height: 5px; background-color: #054e93; border-radius: 5px;"></div>
+    <div style="width: 120px; height: 5px; background-color: #ffcc00; border-radius: 5px; margin-left: 10px;"></div>
+  </div>
+</div>
+
       <section class="welcome-section section-box js-waypoint">
         <div class="container">
           <div class="row">
@@ -531,6 +553,13 @@
           </div>
         </div>
       </section>
+
+      <div class="container-fluid py-2">
+  <div class="d-flex justify-content-center align-items-center">
+    <div style="width: 120px; height: 5px; background-color: #054e93; border-radius: 5px;"></div>
+    <div style="width: 120px; height: 5px; background-color: #ffcc00; border-radius: 5px; margin-left: 10px;"></div>
+  </div>
+</div>
 
       <section class="welcome-section section-box js-waypoint">
         <div class="container">
